@@ -97,7 +97,7 @@ public class Parser extends Utilities {
 				if (row_index >= sample_start_row) {
 					String[] entries = line.split(",");
 					List<String> list = Arrays.asList(entries);
-					sample_list.add(list.subList(0, sample_row_length - 1));
+					sample_list.add(list.subList(sample_row_length + 1, list.size()));
 				}
 				row_index++;
 			}

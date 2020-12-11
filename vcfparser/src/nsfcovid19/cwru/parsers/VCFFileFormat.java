@@ -9,6 +9,8 @@ public class VCFFileFormat {
 	private static final String format_header = "fileformat=" + FILEVERSION;
 	private static final SimpleDateFormat ft = new SimpleDateFormat ("yyyyMMdd");
 	private static final String date_header = "fileDate=" + formatDate();
+	private static final String source_header = "edu.cwru.covid19.VCFProgram";
+	private static final List<String> INFO_DT = defineDatatypes();
 	private static final String chrom_tag = "CHROM";
 	private static final String pos_tag = "POS";
 	private static final String id_tag = "ID";
@@ -18,6 +20,9 @@ public class VCFFileFormat {
 	private static final String filter_tag = "FILTER";
 	private static final String info_tag = "INFO";
 	private static final String format_tag = "FORMAT";
+	private static final String genotype_tag = "GENOTYPES";
+	
+	private static final String format_value = "GT";
 
 	// standard line item values
 	public static final String STD_CHROM = "NC_045512.2";
@@ -33,9 +38,21 @@ public class VCFFileFormat {
 		List<String> md = new ArrayList<String>();
 		md.add(format_header);
 		md.add(date_header);
+		md.add(source_header);
+		for (String dt : INFO_DT) {
+			md.add(dt);
+		}
 		return md;
 	}
 
+	static List<String> defineDatatypes() {
+		// currently only define TVN
+		List<String> dts = new ArrayList<String>();
+		String str = "INFO=<ID=TVN,Number=1,Type=Integer,Description=\"Number of Samples With Specific SNP\">";
+		dts.add(str);
+		return dts;
+	}
+	
 	static List<String> getTags() {
 		List<String> tags = new ArrayList<String>();
 		tags.add(chrom_tag);
@@ -47,6 +64,11 @@ public class VCFFileFormat {
 		tags.add(filter_tag);
 		tags.add(info_tag);
 		tags.add(format_tag);
+		tags.add(genotype_tag);
 		return tags;
+	}
+
+	static String getFormat() {
+		return format_value;
 	}
 }

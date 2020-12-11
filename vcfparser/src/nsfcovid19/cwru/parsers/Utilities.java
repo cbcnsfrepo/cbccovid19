@@ -13,14 +13,14 @@ import javax.swing.JFileChooser;
 public class Utilities {
 	private static final Logger LOGGER = Logger.getGlobal();
 
-	private static final String genome_pos = "getGenomicPos";
 	private static final String samples = "getSamples";
 
 	private static final String snp_rgex = ">";
 
 	public static List<String> pos;
 	public static List<Integer> snps;
-	private static String action;
+	public static List<Integer> numberVariants;
+	public static List<List<String>> sampleSNP;
 	private static String path;
 
 	private static String last_pos = "";
@@ -50,16 +50,39 @@ public class Utilities {
 				parseRefAlt(css_list),
 				VCFFileFormat.EMPTY_VALUE,
 				VCFFileFormat.EMPTY_VALUE,
-				VCFFileFormat.EMPTY_VALUE,
-				VCFFileFormat.EMPTY_VALUE);
+				"TVN=" + snps.get(index).toString(),
+				VCFFileFormat.getFormat(),
+				getGenotype(index));
 		LOGGER.info(str);
 		return str;
 	}
 
-	private static String concatLine(String... strings) {
+	private static String getGenotype(int index) {
 		String str = "";
-		for (String x : strings) {
-			str += x + "\t";
+		for (List<String> smp : sampleSNP) {
+			System.out.println(smp.size());
+			String gt_str = smp.get(index);
+			int gt = 0;
+			if (!gt_str.isEmpty()) {
+				if (Double.parseDouble(gt_str) > 0.5) {
+					gt = 1;
+				}
+			}
+			str += gt + ":";
+		}
+		System.out.println(str);
+		str.substring(0, str.length());
+		return str;
+	}
+
+	private static String concatLine(String... strings) {
+		List<String> string_list = Arrays.asList(strings);
+		String str = "";
+		for (String x : string_list) {
+			str += x;
+			if (string_list.indexOf(x) != string_list.size() - 1) {
+				str += "\t";
+			}
 		}
 		return str;
 	}
@@ -86,7 +109,7 @@ public class Utilities {
 		LOGGER.info("pos: " + position);
 		return position;
 	}
-	
+
 	private static String parseID(List<String> css_list, int index) {
 		List<String> list = getRefAltAsList(css_list);
 		String ref = list.get(0);
@@ -98,7 +121,7 @@ public class Utilities {
 		LOGGER.info("id: " + str.substring(0, str.length() - 1));
 		return str.substring(0, str.length() - 1);
 	}
-	
+
 	private static List<String> getRefAltAsList(List<String> css_list) {
 		String ref = "";
 		String alt = "";
@@ -157,6 +180,9 @@ public class Utilities {
 			// write snps
 			LOGGER.info("writing snp");
 			for (int i = 0; i < pos.size(); i++) {
+				if (last_pointer >= pos.size()) {
+					break;
+				}
 				if (last_pointer > i) {
 					LOGGER.info("get line item=" + i);
 					writer.write(getLineItem(last_pointer));
@@ -167,6 +193,7 @@ public class Utilities {
 					writer.newLine();
 				}
 			}
+			LOGGER.info("finished creating VCF");
 			writer.close();
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -174,31 +201,21 @@ public class Utilities {
 	}
 
 	public static void main(String[] args) {
-		args = new String[] {genome_pos, "‪"};
-		action = args[0];
+		args = new String[] {samples, "‪"};
 		path = args[1];
 		JFileChooser chooser = new JFileChooser();
 		chooser.showOpenDialog(null);
 		path = chooser.getSelectedFile().getAbsolutePath();
 		try {
-			switch (action) {
-			case genome_pos:
-				Parser.setPosWithSNP(path);
-				// pos = pos.subList(0, 10);
-				// snps = snps.subList(0, 10);
-				if (!matchSNP(pos, snps)) {
-					// do nothing perhaps log
-					LOGGER.info("assertion false on snp location matches.");
-				} else {
-					createVCF();
-				}
-				break;
-			case samples:
-				Parser.getSampleInfos(path);
-				break;
+			sampleSNP = Parser.getSampleInfos(path);
+			Parser.setPosWithSNP(path);
+			if (!matchSNP(pos, snps)) {
+				// do nothing perhaps log
+				LOGGER.info("assertion false on snp location matches.");
+			} else {
+				createVCF();
 			}
 		} catch (Exception e) {
-			e.printStackTrace();
 			LOGGER.info("e= " + e);
 		}
 	}
