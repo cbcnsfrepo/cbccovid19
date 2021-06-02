@@ -8,7 +8,7 @@ var igvwebConfig = {
     // apiKey: "...",
 
     // Provide a URL shorterner function or object.   This is optional.  If not supplied
-    // sharable URLs will not be shortened .
+    // sharable URLs will not be shortened.
     urlShortener: {
         provider: "tinyURL"
     },
@@ -19,16 +19,33 @@ var igvwebConfig = {
         {
             queryParametersSupported: true,
             showChromosomeWidget: true,
-            genome: "hg19",
+            genome: "ASM985889v3",
             showSVGButton: false,
             tracks: [
-                // TODO -- add default tracks here.  See github.com/igvteam/igv.js/wiki for details
-                // {
-                //     name: "CTCF - string url",
-                //     type: "wig",
-                //     format: "bigwig",
-                //     url: "https://www.encodeproject.org/files/ENCFF563PAW/@@download/ENCFF563PAW.bigWig"
-                // }
+                {
+                    type: "variant",
+                    format: "vcf",
+                    url: "./datafiles/test.vcf",
+                    name: "Variants",
+                    squishedCallHeight: 1,
+                    expandedCallHeight: 4,
+                    displayMode: "squished",
+                    visibilityWindow: 30000
+                },
+                {
+                     name: "Mutation Frequency",
+                     type: "wig",
+                     format: "wig",
+                     url: "./datafiles/test.wig",
+                     height: 200
+                },
+                {
+                    type: "mut",
+                    format: "mut",
+                    url: "./datafiles/test.mut",
+                    displayMode: "expanded",
+                    height: 300,
+                }
             ]
         }
 }

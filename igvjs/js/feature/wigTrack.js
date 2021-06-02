@@ -215,15 +215,23 @@ class WigTrack extends TrackBase {
                 return distA - distB;
             })
 
-            // Display closest 10
-            const displayFeatures = features.length > 10 ? features.slice(0, 10) : features;
+            // Display closest 5
+            const displayFeatures = features.length > 10 ? features.slice(0, 5) : features;
 
             // Resort in ascending order
             displayFeatures.sort(function (a, b) {
                 return a.start - b.start;
             })
 
+            // we display only singlar value and checks for user mouse position for vertical components.
+            var featuresToShow = 1;
+            var yn = (200-clickState.y)/200;
+            var count = 0;
+
             for(let selectedFeature of displayFeatures) {
+                if (featuresToShow == count) {
+                    break;
+                }
                 if (selectedFeature) {
                     if(popupData.length > 0) {
                         popupData.push("<hr/>")
@@ -237,6 +245,7 @@ class WigTrack extends TrackBase {
                         value: StringUtils.numberFormatter(selectedFeature.value)
                     });
                 }
+                count += 1;
             }
             if(displayFeatures.length < features.length) {
                 popupData.push("<hr/>...");

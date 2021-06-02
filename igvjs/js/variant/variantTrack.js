@@ -69,6 +69,11 @@ class VariantTrack extends TrackBase {
         this.homrefColor = config.homrefColor || "rgb(200, 200, 200)";
         this.homvarColor = config.homvarColor || "rgb(17,248,254)";
         this.hetvarColor = config.hetvarColor || "rgb(34,12,253)";
+        this.indel = "rgb(170, 29, 192)";
+        this.colorA = "rgb(69, 193, 38)";
+        this.colorC = "rgb(39, 22, 194)";
+        this.colorT = "rgb(237, 52, 31)";
+        this.colorG = "rgb(192, 108, 29)";
         this.sortDirection = "ASC";
         this.type = config.type || "variant"
         this.variantColorBy = config.variantColorBy;   // Can be undefined => default
@@ -282,21 +287,23 @@ class VariantTrack extends TrackBase {
 
         let variantColor;
 
-        if (this.variantColorBy) {
-            const value = variant.info[this.variantColorBy];
-            if (value) {
-                return getVariantColorTable(this.variantColorBy).getColor(value);
-            } else {
-                return "gray";
-            }
-        } else if ("NONVARIANT" === variant.type) {
-            variantColor = this.nonRefColor;
-        } else if ("MIXED" === variant.type) {
-            variantColor = this.mixedColor;
-        } else if (this._color) {
-            variantColor = (typeof this._color === "function") ? this._color(variant) : this._color;
-        } else {
-            variantColor = this.defaultColor;
+        if(variant.referenceBases.length != variant.alternateBases.length){
+            variantColor = this.indel;
+        }
+        else if (variant.alternateBases.charAt(0) == 'A'){
+            variantColor = this.colorA;
+        }
+        else if(variant.alternateBases.charAt(0) == 'C'){
+            variantColor = this.colorC;
+        }
+        else if(variant.alternateBases.charAt(0) == 'T'){
+            variantColor = this.colorT;
+        }
+        else if(variant.alternateBases.charAt(0) == 'G'){
+            variantColor = this.colorG;
+        }
+        else {   
+            variantColor = "rgb(0,0,0)";   
         }
         return variantColor;
     }

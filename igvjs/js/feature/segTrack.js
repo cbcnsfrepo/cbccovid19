@@ -49,6 +49,10 @@ class SegTrack extends TrackBase {
         this.squishedRowHeight = config.sampleSquishHeight || config.squishedRowHeight || 2;
         this.expandedRowHeight = config.sampleExpandHeight || config.expandedRowHeight || 13;
         this.sampleHeight = this.squishedRowHeight;      // Initial value, will get overwritten when rendered
+        this.colorA = "rgb(69, 193, 38)";
+        this.colorC = "rgb(39, 22, 194)";
+        this.colorT = "rgb(237, 52, 31)";
+        this.colorG = "rgb(192, 108, 29)";
 
         if (config.color) {
             this.color = config.color;
@@ -249,7 +253,19 @@ class SegTrack extends TrackBase {
                         color = this.color;
                     }
                 } else if ("mut" === this.type) {
-                    color = this.colorTable.getColor(f.value.toLowerCase());
+                    let g = f.gene;
+                    if (g == "A") {
+                        color = this.colorA;
+                    }
+                    if (g == "T") {
+                        color = this.colorT;
+                    }
+                    if (g == "C") {
+                        color = this.colorC;
+                    }
+                    if (g == "G") {
+                        color = this.colorG;
+                    }
                     h = rowHeight - 2 * border;
                     if (w < 3) {
                         w = 3;
