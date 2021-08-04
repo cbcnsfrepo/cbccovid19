@@ -1,9 +1,0 @@
-seqname	source	feature	start	end	score	strand	frame	attribute
-NC_045512.2	20CVa_5138_CV19_S47	Non-coding Transcript	241	241	.	.	.	sample=20CVa_5138_CV19_S47; mutation=T; color=rgb(237, 52, 31);
-NC_045512.2	20CVa_5138_CV19_S47	Synonymous	3037	3037	.	.	.	sample=20CVa_5138_CV19_S47; mutation=T; color=rgb(237, 52, 31);
-NC_045512.2	20CVa_5138_CV19_S47	Missense	6723	6723	.	.	.	sample=20CVa_5138_CV19_S47; mutation=T; color=rgb(237, 52, 31);
-NC_045512.2	20CVa_5138_CV19_S47	Missense	14408	14408	.	.	.	sample=20CVa_5138_CV19_S47; mutation=T; color=rgb(237, 52, 31);
-NC_045512.2	20CVa_5138_CV19_S47	Missense	23403	23403	.	.	.	sample=20CVa_5138_CV19_S47; mutation=G; color=rgb(192, 108, 29);
-NC_045512.2	20CVa_5138_CV19_S47	Missense	25844	25844	.	.	.	sample=20CVa_5138_CV19_S47; mutation=T; color=rgb(237, 52, 31);
-NC_045512.2	20CVa_5138_CV19_S47	Missense	27970	27970	.	.	.	sample=20CVa_5138_CV19_S47; mutation=T; color=rgb(237, 52, 31);
-NC_045512.2	20CVa_5138_CV19_S47	Missense	28881	28881	.	.	.	sample=20CVa_5138_CV19_S47; mutation=AAC; color=rgb(69, 193, 38);
