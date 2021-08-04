@@ -1,4 +1,8 @@
 .DS_Store
+# ignore build modules
 **/node_modules
 **/dist
 webapp_codebase/**/datafiles
+
+# ignore package locks
+**/package_lock.json
