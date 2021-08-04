@@ -1,4 +1,4 @@
 .DS_Store
-webapp_codebase/**/node_modules
-webapp_codebase/**/dist
+**/node_modules
+**/dist
 webapp_codebase/**/datafiles

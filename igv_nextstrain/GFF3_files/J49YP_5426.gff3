@@ -1,0 +1,2 @@
+seqname	source	feature	start	end	score	strand	frame	attribute
+NC_045512.2	20CVa_5426_CV19_S3	Indel	29580	29580	.	.	.	sample=20CVa_5426_CV19_S3; mutation=CT; color=rgb(170, 29, 192);

@@ -1,0 +1,2530 @@
+seqname	source	feature	start	end	score	strand	frame	attribute
+NC_045512.2	20CVc_330_CV19_S1	Non-coding Transcript	28	28	.	.	.	.
+NC_045512.2	20CVa_5351_CV19_S29	Non-coding Transcript	43	43	.	.	.	.
+NC_045512.2	20CVc_059_CV19_S5	Non-coding Transcript	204	204	.	.	.	.
+NC_045512.2	20CVa_047_CV19_S7	Non-coding Transcript	221	221	.	.	.	.
+NC_045512.2	20CVa_5113_CV19_S2	Non-coding Transcript	221	221	.	.	.	.
+NC_045512.2	20CVa_5334_CV19_S17	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5127_CV19_S13	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5233_CV19_S11	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5387_CV19_S18	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5316_CV19_S6	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5218_CV19_S51	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5212_CV19_S45	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5215_CV19_S48	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5326_CV19_S12	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5181_CV19_S36	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5234_CV19_S12	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5152_CV19_S29	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5156_CV19_S33	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5317_CV19_S7	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5327_CV19_S13	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5386_CV19_S17	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5153_CV19_S30	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5151_CV19_S28	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5423_CV19_S6	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5172_CV19_S29	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5125_CV19_S11	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5276_CV19_S43	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5155_CV19_S32	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5138_CV19_S47	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5425_CV19_S2	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5322_CV19_S9	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5282_CV19_S47	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5114_CV19_S3	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5136_CV19_S45	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5158_CV19_S35	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5131_CV19_S15	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5272_CV19_S40	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5186_CV19_S41	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5112_CV19_S1	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5255_CV19_S27	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5252_CV19_S24	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5134_CV19_S18	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5135_CV19_S19	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5168_CV19_S43	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5258_CV19_S30	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5167_CV19_S42	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_086_CV19_S21	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5171_CV19_S28	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5133_CV19_S17	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5132_CV19_S16	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5324_CV19_S11	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5323_CV19_S10	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5217_CV19_S50	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5274_CV19_S41	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5266_CV19_S36	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5416_CV19_S25	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5472_CV19_S24	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5475_CV19_S27	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_059_CV19_S19	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5476_CV19_S28	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5413_CV19_S22	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5164_CV19_S39	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5184_CV19_S39	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2162_CV19_S18	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_094_CV19_S45	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2171_CV19_S25	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_061_CV19_S6	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_079_CV19_S34	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5175_CV19_S32	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5224_CV19_S4	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_473_CV19_S39	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5287_CV19_S2	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_053_CV19_S13	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2172_CV19_S26	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5238_CV19_S16	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5286_CV19_S51	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2154_CV19_S12	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5344_CV19_S24	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2164_CV19_S20	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_3173_CV19_S35	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_063_CV19_S23	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5145_CV19_S24	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_042_CV19_S2	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5284_CV19_S49	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_059_CV19_S5	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5254_CV19_S26	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5144_CV19_S23	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2155_CV19_S13	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5477_CV19_S29	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2152_CV19_S10	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_3164_CV19_S31	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5264_CV19_S34	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_031_CV19_S38	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_081_CV19_S17	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5351_CV19_S29	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5353_CV19_S31	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5242_CV19_S18	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5123_CV19_S9	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5241_CV19_S17	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5182_CV19_S37	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2176_CV19_S30	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_3171_CV19_S33	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_050_CV19_S10	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_054_CV19_S9	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_330_CV19_S1	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5235_CV19_S13	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5126_CV19_S12	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5222_CV19_S2	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5331_CV19_S14	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_019_CV19_S26	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_047_CV19_S7	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5453_CV19_S33	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5216_CV19_S49	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5248_CV19_S52	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5341_CV19_S21	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_052_CV19_S12	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2174_CV19_S28	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_309_CV19_S5	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_053_CV19_S3	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5372_CV19_S8	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5118_CV19_S7	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5368_CV19_S4	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5377_CV19_S11	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2173_CV19_S27	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5354_CV19_S32	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_049_CV19_S9	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5448_CV19_S30	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5237_CV19_S15	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_058_CV19_S18	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5454_CV19_S34	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_093_CV19_S44	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5268_CV19_S38	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2167_CV19_S23	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5121_CV19_S44	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_073_CV19_S33	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2165_CV19_S21	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_044_CV19_S4	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_068_CV19_S14	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5165_CV19_S40	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5414_CV19_S23	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5456_CV19_S36	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5441_CV19_S27	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_311_CV19_S46	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2157_CV19_S15	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_3178_CV19_S36	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5415_CV19_S24	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_3161_CV19_S27	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_083_CV19_S18	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5466_CV19_S20	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2158_CV19_S16	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_052_CV19_S2	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2175_CV19_S29	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2153_CV19_S11	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5146_CV19_S25	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5385_CV19_S16	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5142_CV19_S21	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5265_CV19_S35	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5122_CV19_S8	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5342_CV19_S22	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_070_CV19_S6	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5113_CV19_S2	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_4163_CV19_S39	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5348_CV19_S28	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_025_CV19_S32	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5174_CV19_S31	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2146_CV19_S6	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_026_CV19_S33	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_055_CV19_S10	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5143_CV19_S22	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5357_CV19_S35	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5253_CV19_S25	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_043_CV19_S3	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5285_CV19_S50	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5473_CV19_S25	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2178_CV19_S32	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5116_CV19_S5	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_060_CV19_S20	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5223_CV19_S3	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2163_CV19_S19	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_057_CV19_S12	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5463_CV19_S17	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_084_CV19_S19	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2161_CV19_S17	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_2212_CV19_S25	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_027_CV19_S34	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_041_CV19_S1	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5345_CV19_S25	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5188_CV19_S43	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_341_CV19_S2	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5311_CV19_S1	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2147_CV19_S7	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5178_CV19_S35	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5347_CV19_S27	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5478_CV19_S30	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5211_CV19_S44	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_035_CV19_S42	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_3167_CV19_S32	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_051_CV19_S1	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_477_CV19_S42	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5468_CV19_S22	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2177_CV19_S31	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_474_CV19_S40	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5117_CV19_S6	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_051_CV19_S11	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_034_CV19_S41	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5432_CV19_S8	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_472_CV19_S38	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5162_CV19_S37	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_3172_CV19_S34	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_045_CV19_S5	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5271_CV19_S39	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5321_CV19_S8	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5283_CV19_S48	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5352_CV19_S30	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5335_CV19_S18	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2148_CV19_S8	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_2156_CV19_S14	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_476_CV19_S41	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5384_CV19_S15	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5277_CV19_S44	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVc_478_CV19_S43	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5267_CV19_S37	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5183_CV19_S38	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5147_CV19_S26	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_2211_CV19_S24	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_054_CV19_S14	Non-coding Transcript	241	241	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Synonymous	313	313	.	.	.	.
+NC_045512.2	20CVa_5248_CV19_S52	Synonymous	313	313	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Synonymous	313	313	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Synonymous	313	313	.	.	.	.
+NC_045512.2	20CVa_5415_CV19_S24	Synonymous	313	313	.	.	.	.
+NC_045512.2	20CVa_5466_CV19_S20	Synonymous	313	313	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Synonymous	313	313	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Synonymous	313	313	.	.	.	.
+NC_045512.2	20CVa_5335_CV19_S18	Synonymous	313	313	.	.	.	.
+NC_045512.2	20CVc_472_CV19_S38	Synonymous	346	346	.	.	.	.
+NC_045512.2	20CVa_5281_CV19_S46	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5154_CV19_S31	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5128_CV19_S14	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVc_2151_CV19_S9	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVc_087_CV19_S36	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5247_CV19_S23	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5346_CV19_S26	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5275_CV19_S42	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5273_CV19_S1	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5161_CV19_S36	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5232_CV19_S10	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5257_CV19_S29	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5163_CV19_S38	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5278_CV19_S45	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5256_CV19_S28	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_056_CV19_S16	Synonymous	361	361	.	.	.	.
+NC_045512.2	20CVa_5242_CV19_S18	Missense	373	373	.	.	.	.
+NC_045512.2	20CVa_5151_CV19_S28	Synonymous	379	379	.	.	.	.
+NC_045512.2	20CVa_5131_CV19_S15	Synonymous	379	379	.	.	.	.
+NC_045512.2	20CVa_5386_CV19_S17	Missense	410	410	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Missense	490	490	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Missense	490	490	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Missense	490	490	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Missense	490	490	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Missense	490	490	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Missense	490	490	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Missense	490	490	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Missense	490	490	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Missense	490	490	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Missense	490	490	.	.	.	.
+NC_045512.2	20CVa_5243_CV19_S19	Indel	514	514	.	.	.	.
+NC_045512.2	20CVa_5265_CV19_S35	Synonymous	527	527	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Missense	564	564	.	.	.	.
+NC_045512.2	20CVa_5215_CV19_S48	Indel	685	685	.	.	.	.
+NC_045512.2	20CVa_5155_CV19_S32	Indel	685	685	.	.	.	.
+NC_045512.2	20CVa_5344_CV19_S24	Indel	685	685	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Indel	685	685	.	.	.	.
+NC_045512.2	20CVa_5441_CV19_S27	Indel	685	685	.	.	.	.
+NC_045512.2	20CVa_5142_CV19_S21	Indel	685	685	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Indel	685	685	.	.	.	.
+NC_045512.2	20CVa_5143_CV19_S22	Indel	685	685	.	.	.	.
+NC_045512.2	20CVa_053_CV19_S13	Synonymous	751	751	.	.	.	.
+NC_045512.2	20CVa_5448_CV19_S30	Indel	754	754	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Missense	788	788	.	.	.	.
+NC_045512.2	20CVa_057_CV19_S17	Synonymous	829	829	.	.	.	.
+NC_045512.2	20CVa_5286_CV19_S51	Missense	833	833	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Missense	833	833	.	.	.	.
+NC_045512.2	20CVa_5122_CV19_S8	Missense	833	833	.	.	.	.
+NC_045512.2	20CVc_055_CV19_S10	Missense	833	833	.	.	.	.
+NC_045512.2	20CVa_5357_CV19_S35	Missense	833	833	.	.	.	.
+NC_045512.2	20CVa_5286_CV19_S51	Missense	848	848	.	.	.	.
+NC_045512.2	20CVc_2152_CV19_S10	Missense	851	851	.	.	.	.
+NC_045512.2	20CVa_5212_CV19_S45	Missense	882	882	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Missense	900	900	.	.	.	.
+NC_045512.2	20CVa_5456_CV19_S36	Missense	960	960	.	.	.	.
+NC_045512.2	20CVa_5282_CV19_S47	Synonymous	1057	1057	.	.	.	.
+NC_045512.2	20CVa_5334_CV19_S17	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5127_CV19_S13	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5233_CV19_S11	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5387_CV19_S18	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5316_CV19_S6	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5215_CV19_S48	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5234_CV19_S12	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5156_CV19_S33	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5327_CV19_S13	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5151_CV19_S28	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5172_CV19_S29	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5276_CV19_S43	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5155_CV19_S32	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5322_CV19_S9	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5114_CV19_S3	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5158_CV19_S35	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5131_CV19_S15	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5112_CV19_S1	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5134_CV19_S18	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5135_CV19_S19	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5168_CV19_S43	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5258_CV19_S30	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_086_CV19_S21	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5171_CV19_S28	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5133_CV19_S17	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5132_CV19_S16	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5324_CV19_S11	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5323_CV19_S10	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5472_CV19_S24	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_059_CV19_S19	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5164_CV19_S39	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5184_CV19_S39	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_094_CV19_S45	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5224_CV19_S4	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_473_CV19_S39	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5287_CV19_S2	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_053_CV19_S13	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2172_CV19_S26	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5286_CV19_S51	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5344_CV19_S24	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_042_CV19_S2	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_059_CV19_S5	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2155_CV19_S13	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5477_CV19_S29	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2152_CV19_S10	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_031_CV19_S38	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_081_CV19_S17	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5353_CV19_S31	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5242_CV19_S18	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5241_CV19_S17	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_3171_CV19_S33	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_050_CV19_S10	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_330_CV19_S1	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5235_CV19_S13	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5126_CV19_S12	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5222_CV19_S2	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5331_CV19_S14	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_019_CV19_S26	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5453_CV19_S33	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5216_CV19_S49	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5341_CV19_S21	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5372_CV19_S8	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5118_CV19_S7	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5368_CV19_S4	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5354_CV19_S32	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_049_CV19_S9	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_058_CV19_S18	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_093_CV19_S44	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5121_CV19_S44	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_073_CV19_S33	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5165_CV19_S40	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5414_CV19_S23	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5456_CV19_S36	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2157_CV19_S15	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_3178_CV19_S36	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2158_CV19_S16	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_052_CV19_S2	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5385_CV19_S16	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5142_CV19_S21	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5122_CV19_S8	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_070_CV19_S6	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_4163_CV19_S39	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_025_CV19_S32	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5174_CV19_S31	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_026_CV19_S33	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_055_CV19_S10	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5143_CV19_S22	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5357_CV19_S35	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5253_CV19_S25	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5285_CV19_S50	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5473_CV19_S25	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2178_CV19_S32	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5116_CV19_S5	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_060_CV19_S20	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2163_CV19_S19	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_057_CV19_S12	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_2212_CV19_S25	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_341_CV19_S2	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5178_CV19_S35	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5211_CV19_S44	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_035_CV19_S42	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_3167_CV19_S32	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_051_CV19_S1	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5468_CV19_S22	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_474_CV19_S40	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5117_CV19_S6	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_051_CV19_S11	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_472_CV19_S38	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5162_CV19_S37	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_045_CV19_S5	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5321_CV19_S8	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5283_CV19_S48	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2148_CV19_S8	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_2156_CV19_S14	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_476_CV19_S41	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5384_CV19_S15	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5267_CV19_S37	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_5183_CV19_S38	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVa_054_CV19_S14	Missense	1059	1059	.	.	.	.
+NC_045512.2	20CVc_471_CV19_S37	Missense	1440	1440	.	.	.	.
+NC_045512.2	20CVa_5352_CV19_S30	Synonymous	1441	1441	.	.	.	.
+NC_045512.2	20CVa_5251_CV19_S23	Missense	1515	1515	.	.	.	.
+NC_045512.2	20CVa_5282_CV19_S47	Missense	1734	1734	.	.	.	.
+NC_045512.2	20CVa_086_CV19_S21	Missense	1817	1817	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Missense	1820	1820	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Synonymous	1912	1912	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Synonymous	1912	1912	.	.	.	.
+NC_045512.2	20CVa_086_CV19_S21	Missense	1968	1968	.	.	.	.
+NC_045512.2	20CVa_5354_CV19_S32	Synonymous	2005	2005	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Missense	2070	2070	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Missense	2073	2073	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Missense	2156	2156	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Missense	2160	2160	.	.	.	.
+NC_045512.2	20CVa_026_CV19_S33	Missense	2334	2334	.	.	.	.
+NC_045512.2	20CVa_5175_CV19_S32	Synonymous	2416	2416	.	.	.	.
+NC_045512.2	20CVa_084_CV19_S19	Synonymous	2416	2416	.	.	.	.
+NC_045512.2	20CVa_5227_CV19_S7	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_5141_CV19_S20	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_5214_CV19_S47	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_5262_CV19_S32	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_5243_CV19_S19	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_5236_CV19_S14	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_5244_CV19_S20	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_5288_CV19_S3	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_5263_CV19_S33	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_5185_CV19_S40	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_5173_CV19_S30	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_022_CV19_S29	Missense	2480	2480	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Synonymous	2536	2536	.	.	.	.
+NC_045512.2	20CVa_5227_CV19_S7	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_5141_CV19_S20	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_5214_CV19_S47	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_5262_CV19_S32	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_5243_CV19_S19	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_5236_CV19_S14	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_5244_CV19_S20	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_5288_CV19_S3	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_5263_CV19_S33	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_5185_CV19_S40	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_5173_CV19_S30	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVa_022_CV19_S29	Missense	2558	2558	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Synonymous	2641	2641	.	.	.	.
+NC_045512.2	20CVa_5186_CV19_S41	Missense	2648	2648	.	.	.	.
+NC_045512.2	20CVa_5368_CV19_S4	Missense	2745	2745	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Indel	2782	2782	.	.	.	.
+NC_045512.2	20CVa_5247_CV19_S23	Missense	2786	2786	.	.	.	.
+NC_045512.2	20CVa_5155_CV19_S32	Missense	2808	2808	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Missense	2808	2808	.	.	.	.
+NC_045512.2	20CVa_5143_CV19_S22	Missense	2808	2808	.	.	.	.
+NC_045512.2	20CVc_471_CV19_S37	Missense	2891	2891	.	.	.	.
+NC_045512.2	20CVa_5334_CV19_S17	Missense	2939	2939	.	.	.	.
+NC_045512.2	20CVa_5181_CV19_S36	Synonymous	3011	3011	.	.	.	.
+NC_045512.2	20CVa_5153_CV19_S30	Synonymous	3011	3011	.	.	.	.
+NC_045512.2	20CVa_5136_CV19_S45	Synonymous	3011	3011	.	.	.	.
+NC_045512.2	20CVa_5268_CV19_S38	Synonymous	3011	3011	.	.	.	.
+NC_045512.2	20CVa_083_CV19_S18	Synonymous	3011	3011	.	.	.	.
+NC_045512.2	20CVa_5334_CV19_S17	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5127_CV19_S13	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5233_CV19_S11	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5387_CV19_S18	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5316_CV19_S6	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5218_CV19_S51	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5212_CV19_S45	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5215_CV19_S48	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5326_CV19_S12	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5181_CV19_S36	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5234_CV19_S12	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5152_CV19_S29	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5156_CV19_S33	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5317_CV19_S7	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5327_CV19_S13	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5386_CV19_S17	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5153_CV19_S30	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5151_CV19_S28	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5423_CV19_S6	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5172_CV19_S29	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5125_CV19_S11	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5276_CV19_S43	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5155_CV19_S32	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5138_CV19_S47	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5425_CV19_S2	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5322_CV19_S9	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5282_CV19_S47	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5114_CV19_S3	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5136_CV19_S45	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5158_CV19_S35	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5131_CV19_S15	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5272_CV19_S40	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5186_CV19_S41	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5112_CV19_S1	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5255_CV19_S27	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5252_CV19_S24	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5134_CV19_S18	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5135_CV19_S19	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5168_CV19_S43	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5258_CV19_S30	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5167_CV19_S42	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_086_CV19_S21	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5171_CV19_S28	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5133_CV19_S17	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5132_CV19_S16	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5324_CV19_S11	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5323_CV19_S10	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5217_CV19_S50	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5274_CV19_S41	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5266_CV19_S36	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5416_CV19_S25	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5472_CV19_S24	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5475_CV19_S27	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_059_CV19_S19	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5476_CV19_S28	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5413_CV19_S22	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5164_CV19_S39	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5184_CV19_S39	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2162_CV19_S18	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_094_CV19_S45	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2171_CV19_S25	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_061_CV19_S6	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_079_CV19_S34	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5175_CV19_S32	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5224_CV19_S4	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_473_CV19_S39	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5287_CV19_S2	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_053_CV19_S13	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2172_CV19_S26	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5238_CV19_S16	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5286_CV19_S51	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2154_CV19_S12	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5344_CV19_S24	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2164_CV19_S20	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_3173_CV19_S35	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_063_CV19_S23	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5145_CV19_S24	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_042_CV19_S2	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5284_CV19_S49	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_059_CV19_S5	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5254_CV19_S26	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5144_CV19_S23	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2155_CV19_S13	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5477_CV19_S29	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2152_CV19_S10	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_3164_CV19_S31	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5264_CV19_S34	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_031_CV19_S38	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_081_CV19_S17	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5351_CV19_S29	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5353_CV19_S31	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5242_CV19_S18	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5123_CV19_S9	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5241_CV19_S17	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5182_CV19_S37	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2176_CV19_S30	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_3171_CV19_S33	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_050_CV19_S10	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_054_CV19_S9	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_330_CV19_S1	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5235_CV19_S13	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5126_CV19_S12	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5222_CV19_S2	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5331_CV19_S14	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_019_CV19_S26	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_047_CV19_S7	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5453_CV19_S33	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5216_CV19_S49	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5248_CV19_S52	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5341_CV19_S21	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_052_CV19_S12	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2174_CV19_S28	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_309_CV19_S5	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_053_CV19_S3	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5372_CV19_S8	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5118_CV19_S7	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5368_CV19_S4	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5377_CV19_S11	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2173_CV19_S27	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5354_CV19_S32	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_049_CV19_S9	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5448_CV19_S30	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5237_CV19_S15	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_058_CV19_S18	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5454_CV19_S34	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_093_CV19_S44	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5268_CV19_S38	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2167_CV19_S23	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5121_CV19_S44	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_073_CV19_S33	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2165_CV19_S21	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_044_CV19_S4	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_068_CV19_S14	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5165_CV19_S40	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5414_CV19_S23	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5456_CV19_S36	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5441_CV19_S27	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_311_CV19_S46	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2157_CV19_S15	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_3178_CV19_S36	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5415_CV19_S24	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_3161_CV19_S27	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_083_CV19_S18	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5466_CV19_S20	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2158_CV19_S16	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_052_CV19_S2	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2175_CV19_S29	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2153_CV19_S11	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5146_CV19_S25	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5385_CV19_S16	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5142_CV19_S21	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5265_CV19_S35	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5122_CV19_S8	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5342_CV19_S22	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_070_CV19_S6	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5113_CV19_S2	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_4163_CV19_S39	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5348_CV19_S28	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_025_CV19_S32	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5174_CV19_S31	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2146_CV19_S6	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_026_CV19_S33	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_055_CV19_S10	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5143_CV19_S22	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5357_CV19_S35	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5253_CV19_S25	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_043_CV19_S3	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5285_CV19_S50	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5473_CV19_S25	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2178_CV19_S32	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5116_CV19_S5	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_060_CV19_S20	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5223_CV19_S3	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2163_CV19_S19	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_057_CV19_S12	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5463_CV19_S17	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_084_CV19_S19	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2161_CV19_S17	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_2212_CV19_S25	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_027_CV19_S34	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_041_CV19_S1	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5345_CV19_S25	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5188_CV19_S43	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_341_CV19_S2	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5311_CV19_S1	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2147_CV19_S7	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5178_CV19_S35	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5347_CV19_S27	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5478_CV19_S30	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5211_CV19_S44	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_035_CV19_S42	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_3167_CV19_S32	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_051_CV19_S1	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_477_CV19_S42	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5468_CV19_S22	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2177_CV19_S31	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_474_CV19_S40	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5117_CV19_S6	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_051_CV19_S11	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_034_CV19_S41	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5432_CV19_S8	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_472_CV19_S38	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5162_CV19_S37	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_3172_CV19_S34	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_045_CV19_S5	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5271_CV19_S39	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5321_CV19_S8	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5283_CV19_S48	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5352_CV19_S30	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5335_CV19_S18	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2148_CV19_S8	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_2156_CV19_S14	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_476_CV19_S41	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5384_CV19_S15	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5277_CV19_S44	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVc_478_CV19_S43	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5267_CV19_S37	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5183_CV19_S38	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5147_CV19_S26	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_2211_CV19_S24	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_054_CV19_S14	Synonymous	3037	3037	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Missense	3177	3177	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Missense	3177	3177	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Missense	3177	3177	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Missense	3177	3177	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Missense	3177	3177	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Missense	3177	3177	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Missense	3177	3177	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Missense	3177	3177	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Missense	3177	3177	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Missense	3177	3177	.	.	.	.
+NC_045512.2	20CVa_5223_CV19_S3	Synonymous	3358	3358	.	.	.	.
+NC_045512.2	20CVa_5152_CV19_S29	Missense	3373	3373	.	.	.	.
+NC_045512.2	20CVc_2171_CV19_S25	Missense	3373	3373	.	.	.	.
+NC_045512.2	20CVa_5254_CV19_S26	Missense	3373	3373	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Missense	3410	3410	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Missense	3624	3624	.	.	.	.
+NC_045512.2	20CVa_5158_CV19_S35	Missense	3717	3717	.	.	.	.
+NC_045512.2	20CVa_5282_CV19_S47	Missense	3737	3737	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Synonymous	3760	3760	.	.	.	.
+NC_045512.2	20CVc_330_CV19_S1	Missense	3768	3768	.	.	.	.
+NC_045512.2	20CVa_5463_CV19_S17	Missense	3809	3809	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Missense	3881	3881	.	.	.	.
+NC_045512.2	20CVa_5387_CV19_S18	Missense	3914	3914	.	.	.	.
+NC_045512.2	20CVa_5114_CV19_S3	Missense	3930	3930	.	.	.	.
+NC_045512.2	20CVa_5473_CV19_S25	Missense	4058	4058	.	.	.	.
+NC_045512.2	20CVa_5168_CV19_S43	Missense	4080	4080	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Indel	4200	4200	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Synonymous	4252	4252	.	.	.	.
+NC_045512.2	20CVa_5341_CV19_S21	Synonymous	4331	4331	.	.	.	.
+NC_045512.2	20CVa_5454_CV19_S34	Synonymous	4331	4331	.	.	.	.
+NC_045512.2	20CVa_5212_CV19_S45	Missense	4386	4386	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Indel	4537	4537	.	.	.	.
+NC_045512.2	20CVa_5264_CV19_S34	Missense	4682	4682	.	.	.	.
+NC_045512.2	20CVa_063_CV19_S23	Missense	4886	4886	.	.	.	.
+NC_045512.2	20CVa_5215_CV19_S48	Missense	5011	5011	.	.	.	.
+NC_045512.2	20CVa_5158_CV19_S35	Missense	5011	5011	.	.	.	.
+NC_045512.2	20CVa_5344_CV19_S24	Missense	5011	5011	.	.	.	.
+NC_045512.2	20CVa_5216_CV19_S49	Missense	5011	5011	.	.	.	.
+NC_045512.2	20CVa_5118_CV19_S7	Missense	5011	5011	.	.	.	.
+NC_045512.2	20CVa_5285_CV19_S50	Missense	5011	5011	.	.	.	.
+NC_045512.2	20CVc_2178_CV19_S32	Missense	5011	5011	.	.	.	.
+NC_045512.2	20CVa_5116_CV19_S5	Missense	5011	5011	.	.	.	.
+NC_045512.2	20CVc_341_CV19_S2	Missense	5011	5011	.	.	.	.
+NC_045512.2	20CVa_051_CV19_S11	Missense	5011	5011	.	.	.	.
+NC_045512.2	20CVa_5354_CV19_S32	Missense	5063	5063	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Synonymous	5104	5104	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Synonymous	5284	5284	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Synonymous	5284	5284	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Synonymous	5284	5284	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Synonymous	5284	5284	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Synonymous	5284	5284	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Missense	5724	5724	.	.	.	.
+NC_045512.2	20CVa_5227_CV19_S7	Missense	5870	5870	.	.	.	.
+NC_045512.2	20CVa_5441_CV19_S27	Indel	5908	5908	.	.	.	.
+NC_045512.2	20CVc_2163_CV19_S19	Missense	6026	6026	.	.	.	.
+NC_045512.2	20CVa_057_CV19_S17	Missense	6027	6027	.	.	.	.
+NC_045512.2	20CVa_5165_CV19_S40	Synonymous	6037	6037	.	.	.	.
+NC_045512.2	20CVa_5161_CV19_S36	Synonymous	6040	6040	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Synonymous	6040	6040	.	.	.	.
+NC_045512.2	20CVa_5416_CV19_S25	Synonymous	6148	6148	.	.	.	.
+NC_045512.2	20CVa_5184_CV19_S39	Missense	6198	6198	.	.	.	.
+NC_045512.2	20CVa_5156_CV19_S33	Synonymous	6358	6358	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Missense	6380	6380	.	.	.	.
+NC_045512.2	20CVa_5453_CV19_S33	Missense	6380	6380	.	.	.	.
+NC_045512.2	20CVa_5456_CV19_S36	Missense	6380	6380	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Missense	6402	6402	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Missense	6402	6402	.	.	.	.
+NC_045512.2	20CVc_052_CV19_S2	Missense	6404	6404	.	.	.	.
+NC_045512.2	20CVa_5414_CV19_S23	Missense	6449	6449	.	.	.	.
+NC_045512.2	20CVa_5341_CV19_S21	Missense	6525	6525	.	.	.	.
+NC_045512.2	20CVa_5384_CV19_S15	Synonymous	6616	6616	.	.	.	.
+NC_045512.2	20CVa_5138_CV19_S47	Missense	6723	6723	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Missense	6726	6726	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Missense	6726	6726	.	.	.	.
+NC_045512.2	20CVa_5352_CV19_S30	Synonymous	6739	6739	.	.	.	.
+NC_045512.2	20CVa_5327_CV19_S13	Missense	6813	6813	.	.	.	.
+NC_045512.2	20CVa_5342_CV19_S22	Missense	6861	6861	.	.	.	.
+NC_045512.2	20CVa_4163_CV19_S39	Indel	6977	6977	.	.	.	.
+NC_045512.2	20CVa_5216_CV19_S49	Synonymous	7279	7279	.	.	.	.
+NC_045512.2	20CVa_5116_CV19_S5	Synonymous	7279	7279	.	.	.	.
+NC_045512.2	20CVa_5156_CV19_S33	Synonymous	7396	7396	.	.	.	.
+NC_045512.2	20CVc_2155_CV19_S13	Synonymous	7396	7396	.	.	.	.
+NC_045512.2	20CVa_5477_CV19_S29	Synonymous	7396	7396	.	.	.	.
+NC_045512.2	20CVa_5241_CV19_S17	Synonymous	7396	7396	.	.	.	.
+NC_045512.2	20CVa_4163_CV19_S39	Synonymous	7396	7396	.	.	.	.
+NC_045512.2	20CVc_2148_CV19_S8	Synonymous	7396	7396	.	.	.	.
+NC_045512.2	20CVa_047_CV19_S7	Synonymous	7639	7639	.	.	.	.
+NC_045512.2	20CVc_2153_CV19_S11	Synonymous	7819	7819	.	.	.	.
+NC_045512.2	20CVa_5135_CV19_S19	Synonymous	7822	7822	.	.	.	.
+NC_045512.2	20CVa_5133_CV19_S17	Synonymous	7822	7822	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Synonymous	7834	7834	.	.	.	.
+NC_045512.2	20CVa_5172_CV19_S29	Missense	7851	7851	.	.	.	.
+NC_045512.2	20CVc_309_CV19_S5	Synonymous	7936	7936	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Synonymous	7948	7948	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Missense	7967	7967	.	.	.	.
+NC_045512.2	20CVa_5331_CV19_S14	Missense	8025	8025	.	.	.	.
+NC_045512.2	20CVa_5142_CV19_S21	Synonymous	8092	8092	.	.	.	.
+NC_045512.2	20CVa_5311_CV19_S1	Missense	8208	8208	.	.	.	.
+NC_045512.2	20CVc_087_CV19_S36	Synonymous	8245	8245	.	.	.	.
+NC_045512.2	20CVa_5151_CV19_S28	Synonymous	8251	8251	.	.	.	.
+NC_045512.2	20CVa_5131_CV19_S15	Synonymous	8251	8251	.	.	.	.
+NC_045512.2	20CVa_5132_CV19_S16	Synonymous	8251	8251	.	.	.	.
+NC_045512.2	20CVa_5136_CV19_S45	Synonymous	8266	8266	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Synonymous	8290	8290	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Synonymous	8290	8290	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Synonymous	8290	8290	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Synonymous	8320	8320	.	.	.	.
+NC_045512.2	20CVc_476_CV19_S41	Missense	8327	8327	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Missense	8645	8645	.	.	.	.
+NC_045512.2	20CVc_059_CV19_S5	Missense	8676	8676	.	.	.	.
+NC_045512.2	20CVa_5441_CV19_S27	Indel	8766	8766	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5281_CV19_S46	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5154_CV19_S31	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5128_CV19_S14	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVc_2151_CV19_S9	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVc_087_CV19_S36	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5247_CV19_S23	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5346_CV19_S26	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5275_CV19_S42	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5273_CV19_S1	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5161_CV19_S36	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5226_CV19_S6	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5232_CV19_S10	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5257_CV19_S29	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5163_CV19_S38	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_2213_CV19_S26	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5256_CV19_S28	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_056_CV19_S16	Synonymous	8782	8782	.	.	.	.
+NC_045512.2	20CVa_5141_CV19_S20	Synonymous	8878	8878	.	.	.	.
+NC_045512.2	20CVa_5286_CV19_S51	Synonymous	8956	8956	.	.	.	.
+NC_045512.2	20CVa_5163_CV19_S38	Missense	8985	8985	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Missense	9033	9033	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Indel	9061	9061	.	.	.	.
+NC_045512.2	20CVc_476_CV19_S41	Synonymous	9070	9070	.	.	.	.
+NC_045512.2	20CVa_5152_CV19_S29	Missense	9096	9096	.	.	.	.
+NC_045512.2	20CVc_2171_CV19_S25	Missense	9096	9096	.	.	.	.
+NC_045512.2	20CVa_3172_CV19_S34	Synonymous	9142	9142	.	.	.	.
+NC_045512.2	20CVa_5441_CV19_S27	Indel	9159	9159	.	.	.	.
+NC_045512.2	20CVa_5341_CV19_S21	Synonymous	9169	9169	.	.	.	.
+NC_045512.2	20CVa_5227_CV19_S7	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_5141_CV19_S20	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_5214_CV19_S47	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_5262_CV19_S32	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_5243_CV19_S19	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_5236_CV19_S14	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_5244_CV19_S20	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_5288_CV19_S3	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_5263_CV19_S33	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_5185_CV19_S40	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_5173_CV19_S30	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_022_CV19_S29	Missense	9170	9170	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Synonymous	9172	9172	.	.	.	.
+NC_045512.2	20CVa_5251_CV19_S23	Synonymous	9223	9223	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Indel	9276	9276	.	.	.	.
+NC_045512.2	20CVc_2154_CV19_S12	Synonymous	9301	9301	.	.	.	.
+NC_045512.2	20CVa_5281_CV19_S46	Missense	9630	9630	.	.	.	.
+NC_045512.2	20CVc_2176_CV19_S30	Missense	9653	9653	.	.	.	.
+NC_045512.2	20CVa_5185_CV19_S40	Missense	9665	9665	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Synonymous	9724	9724	.	.	.	.
+NC_045512.2	20CVa_5414_CV19_S23	Indel	9857	9857	.	.	.	.
+NC_045512.2	20CVa_5173_CV19_S30	Indel	9857	9857	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Missense	9893	9893	.	.	.	.
+NC_045512.2	20CVc_2165_CV19_S21	Missense	9935	9935	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Missense	10002	10002	.	.	.	.
+NC_045512.2	20CVc_087_CV19_S36	Synonymous	10015	10015	.	.	.	.
+NC_045512.2	20CVa_026_CV19_S33	Synonymous	10183	10183	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Missense	10188	10188	.	.	.	.
+NC_045512.2	20CVa_058_CV19_S18	Missense	10188	10188	.	.	.	.
+NC_045512.2	20CVc_2157_CV19_S15	Missense	10188	10188	.	.	.	.
+NC_045512.2	20CVa_057_CV19_S17	Missense	10236	10236	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Indel	10250	10250	.	.	.	.
+NC_045512.2	20CVa_5463_CV19_S17	Missense	10305	10305	.	.	.	.
+NC_045512.2	20CVa_5475_CV19_S27	Missense	10323	10323	.	.	.	.
+NC_045512.2	20CVc_2154_CV19_S12	Missense	10323	10323	.	.	.	.
+NC_045512.2	20CVa_5144_CV19_S23	Missense	10323	10323	.	.	.	.
+NC_045512.2	20CVc_2146_CV19_S6	Missense	10323	10323	.	.	.	.
+NC_045512.2	20CVa_5132_CV19_S16	Missense	10448	10448	.	.	.	.
+NC_045512.2	20CVa_5242_CV19_S18	Missense	10448	10448	.	.	.	.
+NC_045512.2	20CVa_051_CV19_S11	Missense	10449	10449	.	.	.	.
+NC_045512.2	20CVa_5171_CV19_S28	Missense	10560	10560	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Missense	10610	10610	.	.	.	.
+NC_045512.2	20CVc_061_CV19_S6	Missense	10641	10641	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Missense	10641	10641	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Missense	10688	10688	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Missense	10746	10746	.	.	.	.
+NC_045512.2	20CVa_5323_CV19_S10	Missense	10851	10851	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Indel	10880	10880	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Synonymous	10894	10894	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Synonymous	10948	10948	.	.	.	.
+NC_045512.2	20CVc_476_CV19_S41	Synonymous	10960	10960	.	.	.	.
+NC_045512.2	20CVa_5227_CV19_S7	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5141_CV19_S20	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5214_CV19_S47	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5262_CV19_S32	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5251_CV19_S23	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5243_CV19_S19	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5236_CV19_S14	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5244_CV19_S20	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5351_CV19_S29	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_057_CV19_S17	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5288_CV19_S3	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5263_CV19_S33	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5185_CV19_S40	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5173_CV19_S30	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVc_472_CV19_S38	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_022_CV19_S29	Missense	11083	11083	.	.	.	.
+NC_045512.2	20CVa_5283_CV19_S48	Synonymous	11095	11095	.	.	.	.
+NC_045512.2	20CVa_5152_CV19_S29	Missense	11195	11195	.	.	.	.
+NC_045512.2	20CVc_2171_CV19_S25	Missense	11195	11195	.	.	.	.
+NC_045512.2	20CVa_026_CV19_S33	Indel	11282	11282	.	.	.	.
+NC_045512.2	20CVa_5476_CV19_S28	Indel	11287	11287	.	.	.	.
+NC_045512.2	20CVc_057_CV19_S12	Missense	11289	11289	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Missense	11511	11511	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Missense	11600	11600	.	.	.	.
+NC_045512.2	20CVa_5226_CV19_S6	Synonymous	11668	11668	.	.	.	.
+NC_045512.2	20CVa_5274_CV19_S41	Synonymous	11758	11758	.	.	.	.
+NC_045512.2	20CVa_5288_CV19_S3	Synonymous	11782	11782	.	.	.	.
+NC_045512.2	20CVa_5127_CV19_S13	Missense	11801	11801	.	.	.	.
+NC_045512.2	20CVa_5316_CV19_S6	Missense	11801	11801	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Missense	11801	11801	.	.	.	.
+NC_045512.2	20CVa_5284_CV19_S49	Missense	11876	11876	.	.	.	.
+NC_045512.2	20CVa_5218_CV19_S51	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5212_CV19_S45	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5326_CV19_S12	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5125_CV19_S11	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5186_CV19_S41	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5217_CV19_S50	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5144_CV19_S23	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5182_CV19_S37	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVc_2176_CV19_S30	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVc_054_CV19_S9	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_052_CV19_S12	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVc_309_CV19_S5	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVc_053_CV19_S3	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVc_2167_CV19_S23	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVc_2165_CV19_S21	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_044_CV19_S4	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVc_311_CV19_S46	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5348_CV19_S28	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_041_CV19_S1	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5311_CV19_S1	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5352_CV19_S30	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5147_CV19_S26	Synonymous	11878	11878	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVa_5327_CV19_S13	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVa_5112_CV19_S1	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVc_094_CV19_S45	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVa_5287_CV19_S2	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVc_093_CV19_S44	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVa_3178_CV19_S36	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVa_3167_CV19_S32	Missense	11916	11916	.	.	.	.
+NC_045512.2	20CVa_056_CV19_S16	Missense	12075	12075	.	.	.	.
+NC_045512.2	20CVa_084_CV19_S19	Synonymous	12112	12112	.	.	.	.
+NC_045512.2	20CVc_059_CV19_S5	Missense	12131	12131	.	.	.	.
+NC_045512.2	20CVa_5234_CV19_S12	Missense	12167	12167	.	.	.	.
+NC_045512.2	20CVc_079_CV19_S34	Synonymous	12310	12310	.	.	.	.
+NC_045512.2	20CVa_5386_CV19_S17	Synonymous	12400	12400	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Indel	12478	12478	.	.	.	.
+NC_045512.2	20CVa_5175_CV19_S32	Missense	12513	12513	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Missense	12672	12672	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Missense	12756	12756	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5164_CV19_S39	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_081_CV19_S17	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5242_CV19_S18	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_3171_CV19_S33	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_050_CV19_S10	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5453_CV19_S33	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5372_CV19_S8	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5456_CV19_S36	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVc_2158_CV19_S16	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5473_CV19_S25	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_060_CV19_S20	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5178_CV19_S35	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_035_CV19_S42	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5468_CV19_S22	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVc_474_CV19_S40	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5117_CV19_S6	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVc_2156_CV19_S14	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5384_CV19_S15	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_054_CV19_S14	Missense	12809	12809	.	.	.	.
+NC_045512.2	20CVa_5212_CV19_S45	Synonymous	12832	12832	.	.	.	.
+NC_045512.2	20CVa_5326_CV19_S12	Synonymous	12832	12832	.	.	.	.
+NC_045512.2	20CVa_5125_CV19_S11	Synonymous	12832	12832	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Synonymous	12832	12832	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Synonymous	12832	12832	.	.	.	.
+NC_045512.2	20CVa_5284_CV19_S49	Synonymous	12832	12832	.	.	.	.
+NC_045512.2	20CVc_2167_CV19_S23	Synonymous	12832	12832	.	.	.	.
+NC_045512.2	20CVa_5145_CV19_S24	Synonymous	12880	12880	.	.	.	.
+NC_045512.2	20CVc_472_CV19_S38	Missense	12915	12915	.	.	.	.
+NC_045512.2	20CVa_5236_CV19_S14	Synonymous	12919	12919	.	.	.	.
+NC_045512.2	20CVc_061_CV19_S6	Missense	13517	13517	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Missense	13517	13517	.	.	.	.
+NC_045512.2	20CVa_5181_CV19_S36	Synonymous	13536	13536	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Synonymous	13701	13701	.	.	.	.
+NC_045512.2	20CVa_5184_CV19_S39	Missense	13712	13712	.	.	.	.
+NC_045512.2	20CVa_5183_CV19_S38	Missense	13712	13712	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Synonymous	13860	13860	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Synonymous	13860	13860	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Synonymous	13860	13860	.	.	.	.
+NC_045512.2	20CVa_5415_CV19_S24	Synonymous	13860	13860	.	.	.	.
+NC_045512.2	20CVa_5466_CV19_S20	Synonymous	13860	13860	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Synonymous	13860	13860	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Synonymous	13860	13860	.	.	.	.
+NC_045512.2	20CVa_5335_CV19_S18	Synonymous	13860	13860	.	.	.	.
+NC_045512.2	20CVc_2172_CV19_S26	Missense	13879	13879	.	.	.	.
+NC_045512.2	20CVc_061_CV19_S6	Synonymous	14220	14220	.	.	.	.
+NC_045512.2	20CVa_5281_CV19_S46	Missense	14294	14294	.	.	.	.
+NC_045512.2	20CVa_5154_CV19_S31	Missense	14294	14294	.	.	.	.
+NC_045512.2	20CVc_2151_CV19_S9	Missense	14294	14294	.	.	.	.
+NC_045512.2	20CVa_5346_CV19_S26	Missense	14294	14294	.	.	.	.
+NC_045512.2	20CVa_5163_CV19_S38	Missense	14294	14294	.	.	.	.
+NC_045512.2	20CVa_043_CV19_S3	Missense	14294	14294	.	.	.	.
+NC_045512.2	20CVa_056_CV19_S16	Missense	14294	14294	.	.	.	.
+NC_045512.2	20CVa_5277_CV19_S44	Missense	14294	14294	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Missense	14306	14306	.	.	.	.
+NC_045512.2	20CVa_058_CV19_S18	Missense	14306	14306	.	.	.	.
+NC_045512.2	20CVc_2157_CV19_S15	Missense	14306	14306	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Synonymous	14397	14397	.	.	.	.
+NC_045512.2	20CVa_5334_CV19_S17	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5127_CV19_S13	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5233_CV19_S11	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5387_CV19_S18	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5316_CV19_S6	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5218_CV19_S51	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5212_CV19_S45	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5215_CV19_S48	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5326_CV19_S12	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5181_CV19_S36	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5234_CV19_S12	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5152_CV19_S29	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5156_CV19_S33	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5317_CV19_S7	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5327_CV19_S13	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5386_CV19_S17	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5153_CV19_S30	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5151_CV19_S28	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5423_CV19_S6	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5172_CV19_S29	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5125_CV19_S11	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5276_CV19_S43	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5155_CV19_S32	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5138_CV19_S47	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5425_CV19_S2	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5322_CV19_S9	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5282_CV19_S47	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5114_CV19_S3	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5136_CV19_S45	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5158_CV19_S35	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5131_CV19_S15	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5272_CV19_S40	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5186_CV19_S41	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5112_CV19_S1	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5255_CV19_S27	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5252_CV19_S24	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5134_CV19_S18	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5135_CV19_S19	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5168_CV19_S43	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5258_CV19_S30	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5167_CV19_S42	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_086_CV19_S21	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5171_CV19_S28	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5133_CV19_S17	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5132_CV19_S16	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5324_CV19_S11	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5323_CV19_S10	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5217_CV19_S50	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5274_CV19_S41	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5266_CV19_S36	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5416_CV19_S25	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5472_CV19_S24	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5475_CV19_S27	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_059_CV19_S19	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5476_CV19_S28	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5413_CV19_S22	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5164_CV19_S39	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5184_CV19_S39	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2162_CV19_S18	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_094_CV19_S45	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2171_CV19_S25	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_061_CV19_S6	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_079_CV19_S34	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5175_CV19_S32	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5224_CV19_S4	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_473_CV19_S39	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5287_CV19_S2	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_053_CV19_S13	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2172_CV19_S26	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5238_CV19_S16	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5286_CV19_S51	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2154_CV19_S12	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5344_CV19_S24	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2164_CV19_S20	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_3173_CV19_S35	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_063_CV19_S23	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5145_CV19_S24	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_042_CV19_S2	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5284_CV19_S49	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_059_CV19_S5	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5254_CV19_S26	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5144_CV19_S23	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2155_CV19_S13	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5477_CV19_S29	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2152_CV19_S10	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_3164_CV19_S31	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5264_CV19_S34	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_031_CV19_S38	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_081_CV19_S17	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5351_CV19_S29	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5353_CV19_S31	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5242_CV19_S18	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5123_CV19_S9	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5241_CV19_S17	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5182_CV19_S37	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2176_CV19_S30	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_3171_CV19_S33	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_050_CV19_S10	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_054_CV19_S9	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_330_CV19_S1	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5235_CV19_S13	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5126_CV19_S12	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5222_CV19_S2	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5331_CV19_S14	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_019_CV19_S26	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_047_CV19_S7	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5453_CV19_S33	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5216_CV19_S49	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5248_CV19_S52	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5341_CV19_S21	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_052_CV19_S12	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2174_CV19_S28	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_309_CV19_S5	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_053_CV19_S3	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5372_CV19_S8	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5118_CV19_S7	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5368_CV19_S4	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5377_CV19_S11	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2173_CV19_S27	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5354_CV19_S32	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_049_CV19_S9	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5448_CV19_S30	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5237_CV19_S15	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_058_CV19_S18	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5454_CV19_S34	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_093_CV19_S44	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5268_CV19_S38	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2167_CV19_S23	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5121_CV19_S44	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_073_CV19_S33	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2165_CV19_S21	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_044_CV19_S4	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_068_CV19_S14	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5165_CV19_S40	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5414_CV19_S23	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5456_CV19_S36	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5441_CV19_S27	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_311_CV19_S46	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2157_CV19_S15	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_3178_CV19_S36	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5415_CV19_S24	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_3161_CV19_S27	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_083_CV19_S18	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5466_CV19_S20	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2158_CV19_S16	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_052_CV19_S2	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2175_CV19_S29	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2153_CV19_S11	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5146_CV19_S25	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5385_CV19_S16	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5142_CV19_S21	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5265_CV19_S35	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5122_CV19_S8	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5342_CV19_S22	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_070_CV19_S6	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5113_CV19_S2	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_4163_CV19_S39	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5348_CV19_S28	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_025_CV19_S32	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5174_CV19_S31	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2146_CV19_S6	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_026_CV19_S33	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_055_CV19_S10	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5143_CV19_S22	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5357_CV19_S35	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5253_CV19_S25	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_043_CV19_S3	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5285_CV19_S50	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5473_CV19_S25	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2178_CV19_S32	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5116_CV19_S5	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_060_CV19_S20	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5223_CV19_S3	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2163_CV19_S19	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_057_CV19_S12	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5463_CV19_S17	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_084_CV19_S19	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2161_CV19_S17	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_2212_CV19_S25	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_027_CV19_S34	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_041_CV19_S1	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5345_CV19_S25	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5188_CV19_S43	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_341_CV19_S2	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5311_CV19_S1	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2147_CV19_S7	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5178_CV19_S35	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5347_CV19_S27	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5478_CV19_S30	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5211_CV19_S44	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_035_CV19_S42	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_3167_CV19_S32	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_051_CV19_S1	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_477_CV19_S42	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5468_CV19_S22	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2177_CV19_S31	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_474_CV19_S40	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5117_CV19_S6	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_051_CV19_S11	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_034_CV19_S41	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5432_CV19_S8	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_472_CV19_S38	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5162_CV19_S37	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_3172_CV19_S34	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_045_CV19_S5	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5271_CV19_S39	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5321_CV19_S8	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5283_CV19_S48	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5352_CV19_S30	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5335_CV19_S18	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2148_CV19_S8	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_2156_CV19_S14	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_476_CV19_S41	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5384_CV19_S15	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5277_CV19_S44	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_478_CV19_S43	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5267_CV19_S37	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5183_CV19_S38	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_5147_CV19_S26	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_2211_CV19_S24	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVa_054_CV19_S14	Missense	14408	14408	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Synonymous	14622	14622	.	.	.	.
+NC_045512.2	20CVa_5353_CV19_S31	Missense	14740	14740	.	.	.	.
+NC_045512.2	20CVa_5227_CV19_S7	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5141_CV19_S20	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5214_CV19_S47	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5262_CV19_S32	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5251_CV19_S23	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5243_CV19_S19	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5236_CV19_S14	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5244_CV19_S20	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_057_CV19_S17	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5288_CV19_S3	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5263_CV19_S33	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5185_CV19_S40	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_5173_CV19_S30	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVa_022_CV19_S29	Synonymous	14805	14805	.	.	.	.
+NC_045512.2	20CVc_473_CV19_S39	Missense	14980	14980	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Missense	14980	14980	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Missense	15101	15101	.	.	.	.
+NC_045512.2	20CVa_3164_CV19_S31	Synonymous	15108	15108	.	.	.	.
+NC_045512.2	20CVc_2172_CV19_S26	Indel	15138	15138	.	.	.	.
+NC_045512.2	20CVa_042_CV19_S2	Indel	15138	15138	.	.	.	.
+NC_045512.2	20CVa_5121_CV19_S44	Indel	15138	15138	.	.	.	.
+NC_045512.2	20CVa_025_CV19_S32	Indel	15138	15138	.	.	.	.
+NC_045512.2	20CVc_051_CV19_S1	Indel	15138	15138	.	.	.	.
+NC_045512.2	20CVa_5218_CV19_S51	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_5186_CV19_S41	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_5217_CV19_S50	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_5144_CV19_S23	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_5182_CV19_S37	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVc_2176_CV19_S30	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVc_054_CV19_S9	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_052_CV19_S12	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVc_309_CV19_S5	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVc_053_CV19_S3	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVc_2165_CV19_S21	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_044_CV19_S4	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVc_311_CV19_S46	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_5348_CV19_S28	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_5311_CV19_S1	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_5352_CV19_S30	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_5147_CV19_S26	Synonymous	15237	15237	.	.	.	.
+NC_045512.2	20CVa_5263_CV19_S33	Missense	15380	15380	.	.	.	.
+NC_045512.2	20CVa_5226_CV19_S6	Synonymous	15720	15720	.	.	.	.
+NC_045512.2	20CVa_5117_CV19_S6	Synonymous	15720	15720	.	.	.	.
+NC_045512.2	20CVa_5124_CV19_S10	Synonymous	15963	15963	.	.	.	.
+NC_045512.2	20CVc_2174_CV19_S28	Synonymous	16089	16089	.	.	.	.
+NC_045512.2	20CVa_5227_CV19_S7	Synonymous	16419	16419	.	.	.	.
+NC_045512.2	20CVa_5243_CV19_S19	Synonymous	16419	16419	.	.	.	.
+NC_045512.2	20CVa_5173_CV19_S30	Synonymous	16419	16419	.	.	.	.
+NC_045512.2	20CVa_5116_CV19_S5	Synonymous	16455	16455	.	.	.	.
+NC_045512.2	20CVa_5125_CV19_S11	Missense	16466	16466	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Missense	16528	16528	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Missense	16795	16795	.	.	.	.
+NC_045512.2	20CVc_330_CV19_S1	Synonymous	16836	16836	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Missense	16852	16852	.	.	.	.
+NC_045512.2	20CVa_5172_CV19_S29	Synonymous	16887	16887	.	.	.	.
+NC_045512.2	20CVa_5155_CV19_S32	Synonymous	16887	16887	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Synonymous	16887	16887	.	.	.	.
+NC_045512.2	20CVa_5253_CV19_S25	Synonymous	16887	16887	.	.	.	.
+NC_045512.2	20CVc_057_CV19_S12	Indel	16935	16935	.	.	.	.
+NC_045512.2	20CVa_5185_CV19_S40	Synonymous	17004	17004	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Missense	17079	17079	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Synonymous	17124	17124	.	.	.	.
+NC_045512.2	20CVa_5251_CV19_S23	Synonymous	17247	17247	.	.	.	.
+NC_045512.2	20CVa_057_CV19_S17	Synonymous	17247	17247	.	.	.	.
+NC_045512.2	20CVa_027_CV19_S34	Missense	17339	17339	.	.	.	.
+NC_045512.2	20CVa_5171_CV19_S28	Synonymous	17505	17505	.	.	.	.
+NC_045512.2	20CVa_3171_CV19_S33	Missense	17555	17555	.	.	.	.
+NC_045512.2	20CVa_5226_CV19_S6	Missense	17747	17747	.	.	.	.
+NC_045512.2	20CVa_2213_CV19_S26	Missense	17747	17747	.	.	.	.
+NC_045512.2	20CVa_5251_CV19_S23	Synonymous	17799	17799	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Missense	17808	17808	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Missense	17825	17825	.	.	.	.
+NC_045512.2	20CVa_5144_CV19_S23	Synonymous	17826	17826	.	.	.	.
+NC_045512.2	20CVa_5226_CV19_S6	Missense	17858	17858	.	.	.	.
+NC_045512.2	20CVa_2213_CV19_S26	Missense	17858	17858	.	.	.	.
+NC_045512.2	20CVa_5423_CV19_S6	Missense	17939	17939	.	.	.	.
+NC_045512.2	20CVa_5425_CV19_S2	Missense	17939	17939	.	.	.	.
+NC_045512.2	20CVa_5413_CV19_S22	Missense	17939	17939	.	.	.	.
+NC_045512.2	20CVa_5448_CV19_S30	Missense	17939	17939	.	.	.	.
+NC_045512.2	20CVa_5454_CV19_S34	Missense	17939	17939	.	.	.	.
+NC_045512.2	20CVa_5226_CV19_S6	Synonymous	18060	18060	.	.	.	.
+NC_045512.2	20CVa_2213_CV19_S26	Synonymous	18060	18060	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Missense	18169	18169	.	.	.	.
+NC_045512.2	20CVa_5184_CV19_S39	Synonymous	18171	18171	.	.	.	.
+NC_045512.2	20CVc_330_CV19_S1	Synonymous	18171	18171	.	.	.	.
+NC_045512.2	20CVa_019_CV19_S26	Synonymous	18171	18171	.	.	.	.
+NC_045512.2	20CVa_5165_CV19_S40	Synonymous	18171	18171	.	.	.	.
+NC_045512.2	20CVc_330_CV19_S1	Missense	18263	18263	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Synonymous	18453	18453	.	.	.	.
+NC_045512.2	20CVa_5253_CV19_S25	Synonymous	18501	18501	.	.	.	.
+NC_045512.2	20CVa_5183_CV19_S38	Synonymous	18513	18513	.	.	.	.
+NC_045512.2	20CVa_5463_CV19_S17	Missense	18523	18523	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Missense	18571	18571	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Missense	18652	18652	.	.	.	.
+NC_045512.2	20CVa_081_CV19_S17	Missense	18652	18652	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Missense	18736	18736	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Missense	18736	18736	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Missense	18736	18736	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Missense	18736	18736	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Missense	18736	18736	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Missense	18736	18736	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Missense	18736	18736	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Missense	18736	18736	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Missense	18736	18736	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Missense	18736	18736	.	.	.	.
+NC_045512.2	20CVa_5218_CV19_S51	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5212_CV19_S45	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5326_CV19_S12	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5386_CV19_S17	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5423_CV19_S6	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5125_CV19_S11	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5425_CV19_S2	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5186_CV19_S41	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5252_CV19_S24	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5258_CV19_S30	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5217_CV19_S50	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5274_CV19_S41	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5266_CV19_S36	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5416_CV19_S25	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5475_CV19_S27	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5413_CV19_S22	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2162_CV19_S18	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2154_CV19_S12	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5145_CV19_S24	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5284_CV19_S49	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5144_CV19_S23	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5182_CV19_S37	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2176_CV19_S30	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_054_CV19_S9	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_052_CV19_S12	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2174_CV19_S28	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_309_CV19_S5	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_053_CV19_S3	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2173_CV19_S27	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5448_CV19_S30	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5237_CV19_S15	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5454_CV19_S34	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2167_CV19_S23	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2165_CV19_S21	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_044_CV19_S4	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_311_CV19_S46	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2175_CV19_S29	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2153_CV19_S11	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5146_CV19_S25	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5265_CV19_S35	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5348_CV19_S28	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2146_CV19_S6	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5463_CV19_S17	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2161_CV19_S17	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_041_CV19_S1	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5188_CV19_S43	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5311_CV19_S1	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2147_CV19_S7	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVc_2177_CV19_S31	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_034_CV19_S41	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5432_CV19_S8	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5352_CV19_S30	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5147_CV19_S26	Synonymous	18877	18877	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Missense	18881	18881	.	.	.	.
+NC_045512.2	20CVa_5287_CV19_S2	Synonymous	18906	18906	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Missense	18929	18929	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVa_5327_CV19_S13	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVa_5112_CV19_S1	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVc_094_CV19_S45	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVc_093_CV19_S44	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVa_3167_CV19_S32	Missense	18998	18998	.	.	.	.
+NC_045512.2	20CVa_5265_CV19_S35	Synonymous	19026	19026	.	.	.	.
+NC_045512.2	20CVc_073_CV19_S33	Missense	19027	19027	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Missense	19073	19073	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Synonymous	19170	19170	.	.	.	.
+NC_045512.2	20CVa_5342_CV19_S22	Synonymous	19170	19170	.	.	.	.
+NC_045512.2	20CVa_5254_CV19_S26	Missense	19454	19454	.	.	.	.
+NC_045512.2	20CVa_5472_CV19_S24	Synonymous	19488	19488	.	.	.	.
+NC_045512.2	20CVa_053_CV19_S13	Synonymous	19488	19488	.	.	.	.
+NC_045512.2	20CVa_5342_CV19_S22	Synonymous	19509	19509	.	.	.	.
+NC_045512.2	20CVa_5274_CV19_S41	Missense	19645	19645	.	.	.	.
+NC_045512.2	20CVa_5266_CV19_S36	Missense	19645	19645	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Missense	19684	19684	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Missense	19684	19684	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Missense	19684	19684	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Missense	19718	19718	.	.	.	.
+NC_045512.2	20CVa_5181_CV19_S36	Missense	19895	19895	.	.	.	.
+NC_045512.2	20CVc_2175_CV19_S29	Indel	19931	19931	.	.	.	.
+NC_045512.2	20CVa_5254_CV19_S26	Missense	19958	19958	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Missense	20006	20006	.	.	.	.
+NC_045512.2	20CVc_473_CV19_S39	Missense	20014	20014	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Missense	20083	20083	.	.	.	.
+NC_045512.2	20CVc_059_CV19_S5	Missense	20104	20104	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Missense	20132	20132	.	.	.	.
+NC_045512.2	20CVa_5114_CV19_S3	Missense	20270	20270	.	.	.	.
+NC_045512.2	20CVc_2172_CV19_S26	Missense	20270	20270	.	.	.	.
+NC_045512.2	20CVa_042_CV19_S2	Missense	20270	20270	.	.	.	.
+NC_045512.2	20CVa_5126_CV19_S12	Missense	20270	20270	.	.	.	.
+NC_045512.2	20CVa_5121_CV19_S44	Missense	20270	20270	.	.	.	.
+NC_045512.2	20CVc_073_CV19_S33	Missense	20270	20270	.	.	.	.
+NC_045512.2	20CVa_070_CV19_S6	Missense	20270	20270	.	.	.	.
+NC_045512.2	20CVa_025_CV19_S32	Missense	20270	20270	.	.	.	.
+NC_045512.2	20CVc_051_CV19_S1	Missense	20270	20270	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Synonymous	20307	20307	.	.	.	.
+NC_045512.2	20CVa_5211_CV19_S44	Synonymous	20307	20307	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Indel	20406	20406	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Missense	20633	20633	.	.	.	.
+NC_045512.2	20CVa_5248_CV19_S52	Missense	20713	20713	.	.	.	.
+NC_045512.2	20CVa_070_CV19_S6	Missense	20740	20740	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Missense	20762	20762	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Synonymous	20940	20940	.	.	.	.
+NC_045512.2	20CVa_5473_CV19_S25	Missense	21017	21017	.	.	.	.
+NC_045512.2	20CVa_5172_CV19_S29	Missense	21058	21058	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Missense	21058	21058	.	.	.	.
+NC_045512.2	20CVa_5253_CV19_S25	Missense	21058	21058	.	.	.	.
+NC_045512.2	20CVa_5323_CV19_S10	Synonymous	21141	21141	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Missense	21233	21233	.	.	.	.
+NC_045512.2	20CVc_2164_CV19_S20	Synonymous	21459	21459	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Indel	21468	21468	.	.	.	.
+NC_045512.2	20CVa_5127_CV19_S13	Missense	21478	21478	.	.	.	.
+NC_045512.2	20CVa_5316_CV19_S6	Missense	21478	21478	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Missense	21478	21478	.	.	.	.
+NC_045512.2	20CVc_068_CV19_S14	Missense	21509	21509	.	.	.	.
+NC_045512.2	20CVa_5423_CV19_S6	Missense	21575	21575	.	.	.	.
+NC_045512.2	20CVc_2174_CV19_S28	Missense	21575	21575	.	.	.	.
+NC_045512.2	20CVc_055_CV19_S10	Missense	21575	21575	.	.	.	.
+NC_045512.2	20CVc_073_CV19_S33	Missense	21762	21762	.	.	.	.
+NC_045512.2	20CVa_3173_CV19_S35	Missense	21767	21767	.	.	.	.
+NC_045512.2	20CVa_5125_CV19_S11	Missense	21780	21780	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Missense	21846	21846	.	.	.	.
+NC_045512.2	20CVa_084_CV19_S19	Missense	21974	21974	.	.	.	.
+NC_045512.2	20CVa_5152_CV19_S29	Indel	21990	21990	.	.	.	.
+NC_045512.2	20CVc_2171_CV19_S25	Indel	21990	21990	.	.	.	.
+NC_045512.2	20CVa_5287_CV19_S2	Indel	22021	22021	.	.	.	.
+NC_045512.2	20CVa_3178_CV19_S36	Indel	22021	22021	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Missense	22122	22122	.	.	.	.
+NC_045512.2	20CVa_5188_CV19_S43	Synonymous	22225	22225	.	.	.	.
+NC_045512.2	20CVa_5441_CV19_S27	Indel	22293	22293	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Indel	22298	22298	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Missense	22326	22326	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Synonymous	22387	22387	.	.	.	.
+NC_045512.2	20CVa_5272_CV19_S40	Synonymous	22450	22450	.	.	.	.
+NC_045512.2	20CVa_5281_CV19_S46	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5154_CV19_S31	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5128_CV19_S14	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVc_2151_CV19_S9	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVc_087_CV19_S36	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5247_CV19_S23	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5346_CV19_S26	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5275_CV19_S42	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5273_CV19_S1	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5161_CV19_S36	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5232_CV19_S10	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5257_CV19_S29	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5163_CV19_S38	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5278_CV19_S45	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_5256_CV19_S28	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_056_CV19_S16	Synonymous	22468	22468	.	.	.	.
+NC_045512.2	20CVa_041_CV19_S1	Missense	22471	22471	.	.	.	.
+NC_045512.2	20CVa_5118_CV19_S7	Synonymous	22495	22495	.	.	.	.
+NC_045512.2	20CVa_5124_CV19_S10	Indel	22991	22991	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Synonymous	23050	23050	.	.	.	.
+NC_045512.2	20CVa_5351_CV19_S29	Missense	23119	23119	.	.	.	.
+NC_045512.2	20CVa_045_CV19_S5	Missense	23127	23127	.	.	.	.
+NC_045512.2	20CVa_5254_CV19_S26	Synonymous	23155	23155	.	.	.	.
+NC_045512.2	20CVa_5271_CV19_S39	Synonymous	23191	23191	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Indel	23252	23252	.	.	.	.
+NC_045512.2	20CVa_5368_CV19_S4	Synonymous	23266	23266	.	.	.	.
+NC_045512.2	20CVa_5354_CV19_S32	Synonymous	23266	23266	.	.	.	.
+NC_045512.2	20CVa_5476_CV19_S28	Synonymous	23296	23296	.	.	.	.
+NC_045512.2	20CVa_063_CV19_S23	Synonymous	23296	23296	.	.	.	.
+NC_045512.2	20CVa_5123_CV19_S9	Synonymous	23296	23296	.	.	.	.
+NC_045512.2	20CVa_5334_CV19_S17	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5127_CV19_S13	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5233_CV19_S11	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5387_CV19_S18	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5316_CV19_S6	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5218_CV19_S51	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5212_CV19_S45	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5215_CV19_S48	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5326_CV19_S12	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5181_CV19_S36	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5234_CV19_S12	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5152_CV19_S29	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5156_CV19_S33	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5317_CV19_S7	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5327_CV19_S13	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5386_CV19_S17	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5153_CV19_S30	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5151_CV19_S28	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5423_CV19_S6	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5172_CV19_S29	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5125_CV19_S11	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5276_CV19_S43	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5155_CV19_S32	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5138_CV19_S47	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5425_CV19_S2	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5322_CV19_S9	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5282_CV19_S47	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5114_CV19_S3	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5136_CV19_S45	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5158_CV19_S35	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5131_CV19_S15	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5272_CV19_S40	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5186_CV19_S41	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5112_CV19_S1	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5255_CV19_S27	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5252_CV19_S24	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5134_CV19_S18	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5135_CV19_S19	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5168_CV19_S43	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5258_CV19_S30	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5167_CV19_S42	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_086_CV19_S21	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5171_CV19_S28	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5133_CV19_S17	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5132_CV19_S16	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5324_CV19_S11	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5323_CV19_S10	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5217_CV19_S50	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5274_CV19_S41	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5266_CV19_S36	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5416_CV19_S25	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5472_CV19_S24	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5475_CV19_S27	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_059_CV19_S19	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5476_CV19_S28	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5413_CV19_S22	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5164_CV19_S39	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5184_CV19_S39	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2162_CV19_S18	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_094_CV19_S45	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2171_CV19_S25	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_061_CV19_S6	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_079_CV19_S34	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5175_CV19_S32	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5224_CV19_S4	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_473_CV19_S39	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5287_CV19_S2	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_053_CV19_S13	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2172_CV19_S26	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5238_CV19_S16	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5286_CV19_S51	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2154_CV19_S12	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5344_CV19_S24	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2164_CV19_S20	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_3173_CV19_S35	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_063_CV19_S23	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5145_CV19_S24	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_042_CV19_S2	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5284_CV19_S49	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_059_CV19_S5	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5254_CV19_S26	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5144_CV19_S23	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2155_CV19_S13	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5477_CV19_S29	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2152_CV19_S10	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_3164_CV19_S31	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5264_CV19_S34	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_031_CV19_S38	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_081_CV19_S17	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5351_CV19_S29	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5353_CV19_S31	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5242_CV19_S18	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5123_CV19_S9	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5241_CV19_S17	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5182_CV19_S37	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2176_CV19_S30	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_3171_CV19_S33	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_050_CV19_S10	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_054_CV19_S9	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_330_CV19_S1	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5235_CV19_S13	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5126_CV19_S12	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5222_CV19_S2	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5331_CV19_S14	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_019_CV19_S26	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_047_CV19_S7	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5453_CV19_S33	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5216_CV19_S49	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5248_CV19_S52	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5341_CV19_S21	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_052_CV19_S12	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2174_CV19_S28	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_309_CV19_S5	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_053_CV19_S3	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5372_CV19_S8	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5118_CV19_S7	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5368_CV19_S4	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5377_CV19_S11	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2173_CV19_S27	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5354_CV19_S32	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_049_CV19_S9	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5448_CV19_S30	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5237_CV19_S15	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_058_CV19_S18	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5454_CV19_S34	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_093_CV19_S44	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5268_CV19_S38	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2167_CV19_S23	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5121_CV19_S44	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_073_CV19_S33	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2165_CV19_S21	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_044_CV19_S4	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_068_CV19_S14	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5165_CV19_S40	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5414_CV19_S23	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5456_CV19_S36	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5441_CV19_S27	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_311_CV19_S46	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2157_CV19_S15	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_3178_CV19_S36	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5415_CV19_S24	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_3161_CV19_S27	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_083_CV19_S18	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5466_CV19_S20	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2158_CV19_S16	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_052_CV19_S2	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2175_CV19_S29	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2153_CV19_S11	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5146_CV19_S25	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5385_CV19_S16	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5142_CV19_S21	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5265_CV19_S35	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5122_CV19_S8	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5342_CV19_S22	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_070_CV19_S6	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5113_CV19_S2	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_4163_CV19_S39	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5348_CV19_S28	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_025_CV19_S32	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5174_CV19_S31	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2146_CV19_S6	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_026_CV19_S33	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_055_CV19_S10	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5143_CV19_S22	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5357_CV19_S35	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5253_CV19_S25	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_043_CV19_S3	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5285_CV19_S50	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5473_CV19_S25	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2178_CV19_S32	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5116_CV19_S5	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_060_CV19_S20	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5223_CV19_S3	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2163_CV19_S19	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_057_CV19_S12	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5463_CV19_S17	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_084_CV19_S19	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2161_CV19_S17	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_2212_CV19_S25	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_027_CV19_S34	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_041_CV19_S1	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5345_CV19_S25	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5188_CV19_S43	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_341_CV19_S2	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5311_CV19_S1	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2147_CV19_S7	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5178_CV19_S35	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5347_CV19_S27	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5478_CV19_S30	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5211_CV19_S44	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_035_CV19_S42	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_3167_CV19_S32	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_051_CV19_S1	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_477_CV19_S42	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5468_CV19_S22	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2177_CV19_S31	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_474_CV19_S40	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5117_CV19_S6	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_051_CV19_S11	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_034_CV19_S41	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5432_CV19_S8	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_472_CV19_S38	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5162_CV19_S37	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_3172_CV19_S34	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_045_CV19_S5	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5271_CV19_S39	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5321_CV19_S8	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5283_CV19_S48	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5352_CV19_S30	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5335_CV19_S18	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2148_CV19_S8	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_2156_CV19_S14	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_476_CV19_S41	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5384_CV19_S15	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5277_CV19_S44	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVc_478_CV19_S43	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5267_CV19_S37	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5183_CV19_S38	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5147_CV19_S26	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_2211_CV19_S24	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_054_CV19_S14	Missense	23403	23403	.	.	.	.
+NC_045512.2	20CVa_5267_CV19_S37	Synonymous	23440	23440	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Missense	23520	23520	.	.	.	.
+NC_045512.2	20CVa_070_CV19_S6	Missense	23536	23536	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Indel	23554	23554	.	.	.	.
+NC_045512.2	20CVa_5165_CV19_S40	Indel	23568	23568	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Indel	23568	23568	.	.	.	.
+NC_045512.2	20CVa_3171_CV19_S33	Missense	23606	23606	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Missense	23675	23675	.	.	.	.
+NC_045512.2	20CVa_5134_CV19_S18	Missense	23697	23697	.	.	.	.
+NC_045512.2	20CVa_5326_CV19_S12	Synonymous	23701	23701	.	.	.	.
+NC_045512.2	20CVa_043_CV19_S3	Synonymous	23746	23746	.	.	.	.
+NC_045512.2	20CVc_2167_CV19_S23	Synonymous	23758	23758	.	.	.	.
+NC_045512.2	20CVc_2164_CV19_S20	Missense	23856	23856	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Synonymous	23911	23911	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Synonymous	23911	23911	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Synonymous	23911	23911	.	.	.	.
+NC_045512.2	20CVa_5415_CV19_S24	Synonymous	23911	23911	.	.	.	.
+NC_045512.2	20CVa_5466_CV19_S20	Synonymous	23911	23911	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Synonymous	23911	23911	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Synonymous	23911	23911	.	.	.	.
+NC_045512.2	20CVa_5335_CV19_S18	Synonymous	23911	23911	.	.	.	.
+NC_045512.2	20CVa_5271_CV19_S39	Synonymous	23941	23941	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Missense	23997	23997	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Indel	24014	24014	.	.	.	.
+NC_045512.2	20CVc_2176_CV19_S30	Missense	24026	24026	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Synonymous	24034	24034	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Synonymous	24034	24034	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Synonymous	24034	24034	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Synonymous	24034	24034	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Synonymous	24034	24034	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Synonymous	24034	24034	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Synonymous	24034	24034	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Synonymous	24034	24034	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Synonymous	24034	24034	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Synonymous	24034	24034	.	.	.	.
+NC_045512.2	20CVa_084_CV19_S19	Missense	24237	24237	.	.	.	.
+NC_045512.2	20CVa_5334_CV19_S17	Synonymous	24418	24418	.	.	.	.
+NC_045512.2	20CVa_5238_CV19_S16	Missense	24453	24453	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Missense	24621	24621	.	.	.	.
+NC_045512.2	20CVa_5226_CV19_S6	Synonymous	24694	24694	.	.	.	.
+NC_045512.2	20CVa_2213_CV19_S26	Synonymous	24694	24694	.	.	.	.
+NC_045512.2	20CVa_5254_CV19_S26	Missense	24795	24795	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Synonymous	24904	24904	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Synonymous	24982	24982	.	.	.	.
+NC_045512.2	20CVa_058_CV19_S18	Synonymous	24982	24982	.	.	.	.
+NC_045512.2	20CVc_2157_CV19_S15	Synonymous	24982	24982	.	.	.	.
+NC_045512.2	20CVa_5284_CV19_S49	Missense	25032	25032	.	.	.	.
+NC_045512.2	20CVc_2164_CV19_S20	Synonymous	25162	25162	.	.	.	.
+NC_045512.2	20CVa_5153_CV19_S30	Synonymous	25207	25207	.	.	.	.
+NC_045512.2	20CVa_5283_CV19_S48	Synonymous	25207	25207	.	.	.	.
+NC_045512.2	20CVa_042_CV19_S2	Missense	25218	25218	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Synonymous	25255	25255	.	.	.	.
+NC_045512.2	20CVa_5141_CV19_S20	Missense	25302	25302	.	.	.	.
+NC_045512.2	20CVa_5214_CV19_S47	Missense	25302	25302	.	.	.	.
+NC_045512.2	20CVa_5288_CV19_S3	Missense	25302	25302	.	.	.	.
+NC_045512.2	20CVa_5282_CV19_S47	Missense	25308	25308	.	.	.	.
+NC_045512.2	20CVc_055_CV19_S10	Synonymous	25413	25413	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Synonymous	25443	25443	.	.	.	.
+NC_045512.2	20CVc_057_CV19_S12	Missense	25455	25455	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Missense	25555	25555	.	.	.	.
+NC_045512.2	20CVa_5281_CV19_S46	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5154_CV19_S31	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5128_CV19_S14	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVc_2151_CV19_S9	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVc_087_CV19_S36	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5247_CV19_S23	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5346_CV19_S26	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5275_CV19_S42	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5273_CV19_S1	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5161_CV19_S36	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5232_CV19_S10	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5257_CV19_S29	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5163_CV19_S38	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5256_CV19_S28	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_056_CV19_S16	Missense	25559	25559	.	.	.	.
+NC_045512.2	20CVa_5334_CV19_S17	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5127_CV19_S13	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5233_CV19_S11	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5387_CV19_S18	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5316_CV19_S6	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5218_CV19_S51	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5212_CV19_S45	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5215_CV19_S48	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5326_CV19_S12	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5234_CV19_S12	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5156_CV19_S33	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5327_CV19_S13	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5386_CV19_S17	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5151_CV19_S28	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5423_CV19_S6	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5172_CV19_S29	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5125_CV19_S11	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5276_CV19_S43	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5155_CV19_S32	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5425_CV19_S2	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5322_CV19_S9	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5282_CV19_S47	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5114_CV19_S3	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5158_CV19_S35	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5131_CV19_S15	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5186_CV19_S41	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5112_CV19_S1	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5252_CV19_S24	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5134_CV19_S18	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5135_CV19_S19	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5168_CV19_S43	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5258_CV19_S30	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_086_CV19_S21	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5171_CV19_S28	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5133_CV19_S17	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5324_CV19_S11	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5323_CV19_S10	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5217_CV19_S50	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5274_CV19_S41	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5266_CV19_S36	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5416_CV19_S25	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5472_CV19_S24	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5475_CV19_S27	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_059_CV19_S19	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5413_CV19_S22	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5164_CV19_S39	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5184_CV19_S39	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2162_CV19_S18	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_094_CV19_S45	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5175_CV19_S32	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5224_CV19_S4	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_473_CV19_S39	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5287_CV19_S2	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_053_CV19_S13	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2172_CV19_S26	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5286_CV19_S51	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2154_CV19_S12	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5344_CV19_S24	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5145_CV19_S24	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_042_CV19_S2	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5284_CV19_S49	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_059_CV19_S5	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5144_CV19_S23	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2155_CV19_S13	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5477_CV19_S29	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2152_CV19_S10	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_031_CV19_S38	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_081_CV19_S17	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5353_CV19_S31	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5242_CV19_S18	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5241_CV19_S17	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5182_CV19_S37	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2176_CV19_S30	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_3171_CV19_S33	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_050_CV19_S10	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_054_CV19_S9	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_330_CV19_S1	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5235_CV19_S13	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5126_CV19_S12	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5222_CV19_S2	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5331_CV19_S14	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_019_CV19_S26	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5453_CV19_S33	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5216_CV19_S49	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5341_CV19_S21	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_052_CV19_S12	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2174_CV19_S28	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_309_CV19_S5	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_053_CV19_S3	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5372_CV19_S8	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5118_CV19_S7	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5368_CV19_S4	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2173_CV19_S27	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5354_CV19_S32	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_049_CV19_S9	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5448_CV19_S30	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5237_CV19_S15	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_058_CV19_S18	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5454_CV19_S34	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_093_CV19_S44	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2167_CV19_S23	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5121_CV19_S44	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_073_CV19_S33	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2165_CV19_S21	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_044_CV19_S4	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5165_CV19_S40	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5414_CV19_S23	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5456_CV19_S36	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_311_CV19_S46	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2157_CV19_S15	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_3178_CV19_S36	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2158_CV19_S16	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_052_CV19_S2	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2175_CV19_S29	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2153_CV19_S11	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5146_CV19_S25	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5385_CV19_S16	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5142_CV19_S21	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5265_CV19_S35	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5122_CV19_S8	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5314_CV19_S4	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_070_CV19_S6	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_4163_CV19_S39	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5348_CV19_S28	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_025_CV19_S32	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5174_CV19_S31	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2146_CV19_S6	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_026_CV19_S33	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_055_CV19_S10	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5143_CV19_S22	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5357_CV19_S35	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5253_CV19_S25	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5285_CV19_S50	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5473_CV19_S25	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2178_CV19_S32	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5116_CV19_S5	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_060_CV19_S20	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2163_CV19_S19	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_057_CV19_S12	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5463_CV19_S17	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_084_CV19_S19	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2161_CV19_S17	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_2212_CV19_S25	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_041_CV19_S1	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5188_CV19_S43	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_341_CV19_S2	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5311_CV19_S1	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2147_CV19_S7	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5178_CV19_S35	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5211_CV19_S44	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_035_CV19_S42	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_3167_CV19_S32	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_051_CV19_S1	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5468_CV19_S22	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2177_CV19_S31	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_474_CV19_S40	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5117_CV19_S6	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_051_CV19_S11	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_034_CV19_S41	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5432_CV19_S8	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_472_CV19_S38	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5162_CV19_S37	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_045_CV19_S5	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5321_CV19_S8	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5283_CV19_S48	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5352_CV19_S30	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2148_CV19_S8	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_2156_CV19_S14	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVc_476_CV19_S41	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5384_CV19_S15	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5267_CV19_S37	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5183_CV19_S38	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5147_CV19_S26	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_054_CV19_S14	Missense	25563	25563	.	.	.	.
+NC_045512.2	20CVa_5126_CV19_S12	Missense	25595	25595	.	.	.	.
+NC_045512.2	20CVc_2151_CV19_S9	Missense	25703	25703	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Missense	25757	25757	.	.	.	.
+NC_045512.2	20CVa_5143_CV19_S22	Synonymous	25782	25782	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Synonymous	25797	25797	.	.	.	.
+NC_045512.2	20CVa_5138_CV19_S47	Missense	25844	25844	.	.	.	.
+NC_045512.2	20CVa_5285_CV19_S50	Missense	25865	25865	.	.	.	.
+NC_045512.2	20CVa_5331_CV19_S14	Missense	25889	25889	.	.	.	.
+NC_045512.2	20CVa_5283_CV19_S48	Missense	25976	25976	.	.	.	.
+NC_045512.2	20CVc_096_CV19_S48	Missense	26065	26065	.	.	.	.
+NC_045512.2	20CVa_5211_CV19_S44	Missense	26065	26065	.	.	.	.
+NC_045512.2	20CVc_311_CV19_S46	Missense	26086	26086	.	.	.	.
+NC_045512.2	20CVa_5227_CV19_S7	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5141_CV19_S20	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5214_CV19_S47	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5262_CV19_S32	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5251_CV19_S23	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5243_CV19_S19	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5236_CV19_S14	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5244_CV19_S20	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_057_CV19_S17	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5288_CV19_S3	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5263_CV19_S33	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5185_CV19_S40	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5173_CV19_S30	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_022_CV19_S29	Missense	26144	26144	.	.	.	.
+NC_045512.2	20CVa_5346_CV19_S26	Indel	26157	26157	.	.	.	.
+NC_045512.2	20CVa_5173_CV19_S30	Indel	26170	26170	.	.	.	.
+NC_045512.2	20CVa_084_CV19_S19	Non-coding Transcript	26233	26233	.	.	.	.
+NC_045512.2	20CVa_5311_CV19_S1	Synonymous	26262	26262	.	.	.	.
+NC_045512.2	20CVa_5277_CV19_S44	Missense	26428	26428	.	.	.	.
+NC_045512.2	20CVa_5155_CV19_S32	Synonymous	26433	26433	.	.	.	.
+NC_045512.2	20CVc_2166_CV19_S22	Synonymous	26433	26433	.	.	.	.
+NC_045512.2	20CVa_5143_CV19_S22	Synonymous	26433	26433	.	.	.	.
+NC_045512.2	20CVa_047_CV19_S7	Synonymous	26464	26464	.	.	.	.
+NC_045512.2	20CVa_5284_CV19_S49	Non-coding Transcript	26500	26500	.	.	.	.
+NC_045512.2	20CVa_5387_CV19_S18	Missense	26529	26529	.	.	.	.
+NC_045512.2	20CVa_5387_CV19_S18	Missense	26622	26622	.	.	.	.
+NC_045512.2	20CVa_5411_CV19_S20	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5164_CV19_S39	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVc_2168_CV19_S24	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_081_CV19_S17	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5242_CV19_S18	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_3171_CV19_S33	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_050_CV19_S10	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5453_CV19_S33	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5372_CV19_S8	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5456_CV19_S36	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVc_2158_CV19_S16	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5473_CV19_S25	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_060_CV19_S20	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5356_CV19_S34	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5178_CV19_S35	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_035_CV19_S42	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5468_CV19_S22	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVc_474_CV19_S40	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5117_CV19_S6	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5315_CV19_S5	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVc_2156_CV19_S14	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5384_CV19_S15	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_054_CV19_S14	Synonymous	26625	26625	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Synonymous	26729	26729	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Synonymous	26729	26729	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Synonymous	26729	26729	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Synonymous	26729	26729	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Synonymous	26729	26729	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Synonymous	26729	26729	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Synonymous	26729	26729	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Synonymous	26729	26729	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Synonymous	26729	26729	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Synonymous	26729	26729	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Missense	26730	26730	.	.	.	.
+NC_045512.2	20CVc_2163_CV19_S19	Missense	26752	26752	.	.	.	.
+NC_045512.2	20CVa_086_CV19_S21	Synonymous	26768	26768	.	.	.	.
+NC_045512.2	20CVc_2158_CV19_S16	Synonymous	26873	26873	.	.	.	.
+NC_045512.2	20CVa_5187_CV19_S42	Synonymous	26885	26885	.	.	.	.
+NC_045512.2	20CVa_5123_CV19_S9	Synonymous	26936	26936	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Synonymous	27002	27002	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Synonymous	27002	27002	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Synonymous	27002	27002	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Synonymous	27002	27002	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Synonymous	27002	27002	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Indel	27055	27055	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Indel	27131	27131	.	.	.	.
+NC_045512.2	20CVa_5313_CV19_S3	Synonymous	27143	27143	.	.	.	.
+NC_045512.2	20CVa_054_CV19_S14	Synonymous	27143	27143	.	.	.	.
+NC_045512.2	20CVa_5224_CV19_S4	Missense	27147	27147	.	.	.	.
+NC_045512.2	20CVa_3167_CV19_S32	Missense	27286	27286	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Synonymous	27294	27294	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Indel	27373	27373	.	.	.	.
+NC_045512.2	20CVa_5156_CV19_S33	Indel	27389	27389	.	.	.	.
+NC_045512.2	20CVc_057_CV19_S12	Missense	27476	27476	.	.	.	.
+NC_045512.2	20CVa_5334_CV19_S17	Missense	27523	27523	.	.	.	.
+NC_045512.2	20CVc_2146_CV19_S6	Indel	27563	27563	.	.	.	.
+NC_045512.2	20CVa_3164_CV19_S31	Missense	27653	27653	.	.	.	.
+NC_045512.2	20CVa_047_CV19_S7	Missense	27653	27653	.	.	.	.
+NC_045512.2	20CVc_068_CV19_S14	Missense	27653	27653	.	.	.	.
+NC_045512.2	20CVa_3161_CV19_S27	Missense	27653	27653	.	.	.	.
+NC_045512.2	20CVa_5113_CV19_S2	Missense	27653	27653	.	.	.	.
+NC_045512.2	20CVa_5247_CV19_S23	Missense	27659	27659	.	.	.	.
+NC_045512.2	20CVc_471_CV19_S37	Synonymous	27669	27669	.	.	.	.
+NC_045512.2	20CVa_5188_CV19_S43	Missense	27737	27737	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Indel	27756	27756	.	.	.	.
+NC_045512.2	20CVa_5174_CV19_S31	Non-coding Transcript	27831	27831	.	.	.	.
+NC_045512.2	20CVa_5385_CV19_S16	Non-coding Transcript	27847	27847	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Missense	27925	27925	.	.	.	.
+NC_045512.2	20CVa_5172_CV19_S29	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_5286_CV19_S51	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_4175_CV19_S41	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_058_CV19_S18	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_085_CV19_S20	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVc_2157_CV19_S15	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_5122_CV19_S8	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_5447_CV19_S29	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVc_055_CV19_S10	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_5357_CV19_S35	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_5253_CV19_S25	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Missense	27964	27964	.	.	.	.
+NC_045512.2	20CVa_5138_CV19_S47	Missense	27970	27970	.	.	.	.
+NC_045512.2	20CVc_061_CV19_S6	Missense	27995	27995	.	.	.	.
+NC_045512.2	20CVa_5112_CV19_S1	Missense	28027	28027	.	.	.	.
+NC_045512.2	20CVc_094_CV19_S45	Missense	28027	28027	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Missense	28027	28027	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Missense	28027	28027	.	.	.	.
+NC_045512.2	20CVc_093_CV19_S44	Missense	28027	28027	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Missense	28027	28027	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Missense	28027	28027	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Missense	28027	28027	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Missense	28027	28027	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_5277_CV19_S44	Missense	28077	28077	.	.	.	.
+NC_045512.2	20CVa_3172_CV19_S34	Missense	28087	28087	.	.	.	.
+NC_045512.2	20CVa_5124_CV19_S10	Indel	28089	28089	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Indel	28089	28089	.	.	.	.
+NC_045512.2	20CVa_5176_CV19_S33	Indel	28089	28089	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5281_CV19_S46	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5154_CV19_S31	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5128_CV19_S14	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVc_2151_CV19_S9	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVc_087_CV19_S36	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5247_CV19_S23	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5346_CV19_S26	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5275_CV19_S42	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5273_CV19_S1	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5161_CV19_S36	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5226_CV19_S6	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5232_CV19_S10	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5257_CV19_S29	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5163_CV19_S38	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5278_CV19_S45	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_2213_CV19_S26	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5256_CV19_S28	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_056_CV19_S16	Missense	28144	28144	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Synonymous	28166	28166	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Synonymous	28166	28166	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Synonymous	28166	28166	.	.	.	.
+NC_045512.2	20CVa_5156_CV19_S33	Indel	28221	28221	.	.	.	.
+NC_045512.2	20CVa_5227_CV19_S7	Missense	28242	28242	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Missense	28280	28280	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Missense	28289	28289	.	.	.	.
+NC_045512.2	20CVa_5151_CV19_S28	Missense	28292	28292	.	.	.	.
+NC_045512.2	20CVa_5134_CV19_S18	Missense	28311	28311	.	.	.	.
+NC_045512.2	20CVc_2177_CV19_S31	Synonymous	28312	28312	.	.	.	.
+NC_045512.2	20CVa_5134_CV19_S18	Missense	28325	28325	.	.	.	.
+NC_045512.2	20CVa_5321_CV19_S8	Missense	28361	28361	.	.	.	.
+NC_045512.2	20CVa_5368_CV19_S4	Missense	28368	28368	.	.	.	.
+NC_045512.2	20CVa_5354_CV19_S32	Missense	28368	28368	.	.	.	.
+NC_045512.2	20CVa_5224_CV19_S4	Missense	28373	28373	.	.	.	.
+NC_045512.2	20CVa_5165_CV19_S40	Missense	28392	28392	.	.	.	.
+NC_045512.2	20CVa_5158_CV19_S35	Synonymous	28465	28465	.	.	.	.
+NC_045512.2	20CVa_052_CV19_S12	Missense	28472	28472	.	.	.	.
+NC_045512.2	20CVa_5348_CV19_S28	Missense	28472	28472	.	.	.	.
+NC_045512.2	20CVa_5147_CV19_S26	Missense	28472	28472	.	.	.	.
+NC_045512.2	20CVa_5161_CV19_S36	Synonymous	28606	28606	.	.	.	.
+NC_045512.2	20CVa_037_CV19_S44	Synonymous	28606	28606	.	.	.	.
+NC_045512.2	20CVc_476_CV19_S41	Synonymous	28771	28771	.	.	.	.
+NC_045512.2	20CVc_478_CV19_S43	Missense	28812	28812	.	.	.	.
+NC_045512.2	20CVc_2178_CV19_S32	Missense	28826	28826	.	.	.	.
+NC_045512.2	20CVa_5281_CV19_S46	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5154_CV19_S31	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5128_CV19_S14	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVc_2151_CV19_S9	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVc_087_CV19_S36	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5247_CV19_S23	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5346_CV19_S26	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5275_CV19_S42	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5273_CV19_S1	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5161_CV19_S36	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5232_CV19_S10	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5257_CV19_S29	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5163_CV19_S38	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5278_CV19_S45	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5256_CV19_S28	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_056_CV19_S16	Missense	28878	28878	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Missense	28880	28880	.	.	.	.
+NC_045512.2	20CVa_5152_CV19_S29	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5138_CV19_S47	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5132_CV19_S16	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVc_2171_CV19_S25	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVc_2164_CV19_S20	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_055_CV19_S15	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5254_CV19_S26	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_3164_CV19_S31	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5264_CV19_S34	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_047_CV19_S7	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5248_CV19_S52	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVc_068_CV19_S14	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5415_CV19_S24	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_3161_CV19_S27	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5466_CV19_S20	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5342_CV19_S22	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5113_CV19_S2	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5478_CV19_S30	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5335_CV19_S18	Missense	28881	28881	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Missense	28896	28896	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Missense	28904	28904	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Missense	28904	28904	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Missense	28904	28904	.	.	.	.
+NC_045512.2	20CVa_5415_CV19_S24	Missense	28904	28904	.	.	.	.
+NC_045512.2	20CVa_5466_CV19_S20	Missense	28904	28904	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Missense	28904	28904	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Missense	28904	28904	.	.	.	.
+NC_045512.2	20CVa_5335_CV19_S18	Missense	28904	28904	.	.	.	.
+NC_045512.2	20CVa_5256_CV19_S28	Synonymous	28939	28939	.	.	.	.
+NC_045512.2	20CVa_5333_CV19_S16	Synonymous	29095	29095	.	.	.	.
+NC_045512.2	20CVa_5246_CV19_S22	Synonymous	29095	29095	.	.	.	.
+NC_045512.2	20CVa_5346_CV19_S26	Synonymous	29095	29095	.	.	.	.
+NC_045512.2	20CVa_035_CV19_S42	Missense	29109	29109	.	.	.	.
+NC_045512.2	20CVa_5214_CV19_S47	Synonymous	29119	29119	.	.	.	.
+NC_045512.2	20CVa_5455_CV19_S35	Synonymous	29119	29119	.	.	.	.
+NC_045512.2	20CVc_061_CV19_S6	Missense	29171	29171	.	.	.	.
+NC_045512.2	20CVa_5132_CV19_S16	Missense	29253	29253	.	.	.	.
+NC_045512.2	20CVa_5317_CV19_S7	Missense	29324	29324	.	.	.	.
+NC_045512.2	20CVa_5123_CV19_S9	Missense	29409	29409	.	.	.	.
+NC_045512.2	20CVc_062_CV19_S7	Synonymous	29482	29482	.	.	.	.
+NC_045512.2	20CVa_5148_CV19_S27	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVa_5327_CV19_S13	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVa_5112_CV19_S1	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVc_094_CV19_S45	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVc_070_CV19_S15	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVa_018_CV19_S25	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVc_093_CV19_S44	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVc_067_CV19_S8	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVa_5363_CV19_S39	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVa_048_CV19_S8	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVc_058_CV19_S4	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVc_318_CV19_S3	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVa_3167_CV19_S32	Non-coding Transcript	29540	29540	.	.	.	.
+NC_045512.2	20CVa_5387_CV19_S18	Non-coding Transcript	29543	29543	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Non-coding Transcript	29550	29550	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Missense	29567	29567	.	.	.	.
+NC_045512.2	20CVa_5426_CV19_S3	Indel	29580	29580	.	.	.	.
+NC_045512.2	20CVa_5252_CV19_S24	Synonymous	29614	29614	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Synonymous	29614	29614	.	.	.	.
+NC_045512.2	20CVa_5133_CV19_S17	Missense	29625	29625	.	.	.	.
+NC_045512.2	20CVa_5163_CV19_S38	Missense	29625	29625	.	.	.	.
+NC_045512.2	20CVc_478_CV19_S43	Indel	29672	29672	.	.	.	.
+NC_045512.2	20CVa_5157_CV19_S34	Non-coding Transcript	29700	29700	.	.	.	.
+NC_045512.2	20CVa_5228_CV19_S8	Non-coding Transcript	29700	29700	.	.	.	.
+NC_045512.2	20CVa_5213_CV19_S46	Non-coding Transcript	29700	29700	.	.	.	.
+NC_045512.2	20CVa_5225_CV19_S5	Non-coding Transcript	29700	29700	.	.	.	.
+NC_045512.2	20CVa_5231_CV19_S9	Non-coding Transcript	29700	29700	.	.	.	.
+NC_045512.2	20CVa_5166_CV19_S41	Non-coding Transcript	29700	29700	.	.	.	.
+NC_045512.2	20CVa_030_CV19_S37	Non-coding Transcript	29700	29700	.	.	.	.
+NC_045512.2	20CVa_024_CV19_S31	Non-coding Transcript	29700	29700	.	.	.	.
+NC_045512.2	20CVa_5245_CV19_S21	Non-coding Transcript	29700	29700	.	.	.	.
+NC_045512.2	20CVa_5177_CV19_S34	Non-coding Transcript	29700	29700	.	.	.	.
+NC_045512.2	20CVa_019_CV19_S26	Non-coding Transcript	29708	29708	.	.	.	.
+NC_045512.2	20CVa_5124_CV19_S10	Non-coding Transcript	29711	29711	.	.	.	.
+NC_045512.2	20CVc_083_CV19_S35	Non-coding Transcript	29711	29711	.	.	.	.
+NC_045512.2	20CVa_5332_CV19_S15	Non-coding Transcript	29738	29738	.	.	.	.
+NC_045512.2	20CVc_056_CV19_S11	Non-coding Transcript	29738	29738	.	.	.	.
+NC_045512.2	20CVa_5281_CV19_S46	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5261_CV19_S31	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5154_CV19_S31	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5128_CV19_S14	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVc_2151_CV19_S9	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVc_087_CV19_S36	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5247_CV19_S23	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5346_CV19_S26	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5275_CV19_S42	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5273_CV19_S1	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5161_CV19_S36	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5232_CV19_S10	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5257_CV19_S29	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5163_CV19_S38	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5278_CV19_S45	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5256_CV19_S28	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_056_CV19_S16	Non-coding Transcript	29742	29742	.	.	.	.
+NC_045512.2	20CVa_5467_CV19_S21	Non-coding Transcript	29747	29747	.	.	.	.
+NC_045512.2	20CVa_5465_CV19_S19	Non-coding Transcript	29747	29747	.	.	.	.
+NC_045512.2	20CVc_060_CV19_S13	Non-coding Transcript	29747	29747	.	.	.	.
+NC_045512.2	20CVa_5415_CV19_S24	Non-coding Transcript	29747	29747	.	.	.	.
+NC_045512.2	20CVa_5466_CV19_S20	Non-coding Transcript	29747	29747	.	.	.	.
+NC_045512.2	20CVa_5373_CV19_S9	Non-coding Transcript	29747	29747	.	.	.	.
+NC_045512.2	20CVa_5378_CV19_S12	Non-coding Transcript	29747	29747	.	.	.	.
+NC_045512.2	20CVa_5335_CV19_S18	Non-coding Transcript	29747	29747	.	.	.	.
