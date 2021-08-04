@@ -1,0 +1,5 @@
+seqname	source	feature	start	end	score	strand	frame	attribute
+NC_045512.2	20CVa_5124_CV19_S10	Synonymous	15963	15963	.	.	.	sample=20CVa_5124_CV19_S10; mutation=T; color=rgb(237, 52, 31);
+NC_045512.2	20CVa_5124_CV19_S10	Indel	22991	22991	.	.	.	sample=20CVa_5124_CV19_S10; mutation=A; color=rgb(170, 29, 192);
+NC_045512.2	20CVa_5124_CV19_S10	Indel	28089	28089	.	.	.	sample=20CVa_5124_CV19_S10; mutation=G; color=rgb(170, 29, 192);
+NC_045512.2	20CVa_5124_CV19_S10	Non-coding Transcript	29711	29711	.	.	.	sample=20CVa_5124_CV19_S10; mutation=T; color=rgb(237, 52, 31);

@@ -1,0 +1,10 @@
+seqname	source	feature	start	end	score	strand	frame	attribute
+NC_045512.2	20CVc_2151_CV19_S9	Synonymous	361	361	.	.	.	sample=20CVc_2151_CV19_S9; mutation=G; color=rgb(192, 108, 29);
+NC_045512.2	20CVc_2151_CV19_S9	Synonymous	8782	8782	.	.	.	sample=20CVc_2151_CV19_S9; mutation=T; color=rgb(237, 52, 31);
+NC_045512.2	20CVc_2151_CV19_S9	Missense	14294	14294	.	.	.	sample=20CVc_2151_CV19_S9; mutation=A; color=rgb(69, 193, 38);
+NC_045512.2	20CVc_2151_CV19_S9	Synonymous	22468	22468	.	.	.	sample=20CVc_2151_CV19_S9; mutation=T; color=rgb(237, 52, 31);
+NC_045512.2	20CVc_2151_CV19_S9	Missense	25559	25559	.	.	.	sample=20CVc_2151_CV19_S9; mutation=G; color=rgb(192, 108, 29);
+NC_045512.2	20CVc_2151_CV19_S9	Missense	25703	25703	.	.	.	sample=20CVc_2151_CV19_S9; mutation=T; color=rgb(237, 52, 31);
+NC_045512.2	20CVc_2151_CV19_S9	Missense	28144	28144	.	.	.	sample=20CVc_2151_CV19_S9; mutation=C; color=rgb(39, 22, 194);
+NC_045512.2	20CVc_2151_CV19_S9	Missense	28878	28878	.	.	.	sample=20CVc_2151_CV19_S9; mutation=A; color=rgb(69, 193, 38);
+NC_045512.2	20CVc_2151_CV19_S9	Non-coding Transcript	29742	29742	.	.	.	sample=20CVc_2151_CV19_S9; mutation=A; color=rgb(69, 193, 38);
