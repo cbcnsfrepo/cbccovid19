@@ -110,7 +110,7 @@ class SegParser {
                 const feature = new SegFeature({
                     sample: tokens[this.sampleColumn],
                     chr: tokens[this.chrColumn],
-                    start: parseInt(tokens[this.startColumn]) - 1,
+                    start: parseInt(tokens[this.startColumn]),
                     end: parseInt(tokens[this.endColumn]),
                     type: tokens[this.dataColumn],
                     gene: tokens[this.valueColumn],
