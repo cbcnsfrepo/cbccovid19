@@ -2,7 +2,9 @@
 # ignore build modules
 **/node_modules
 **/dist
+# datafiles
 webapp_codebase/**/datafiles
+**/GFF3_files
 
 # ignore package locks
 **/package_lock.json
