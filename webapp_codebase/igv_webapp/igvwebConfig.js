@@ -42,7 +42,7 @@ var igvwebConfig = {
                 {
                     type: "mut",
                     format: "mut",
-                    url: "./datafiles/test.mut",
+                    url: "./datafiles/cle_clinic.mut",
                     displayMode: "expanded",
                     height: 300,
                 }
