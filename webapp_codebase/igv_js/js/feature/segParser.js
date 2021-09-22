@@ -184,7 +184,7 @@ class SegFeature {
             {name: "Quality Value", value: this.notes}
         ];
         */
-        const temp = [this.chr, this.start, this.end, this.sample, this.gene, this.type, this.notes];
+        const temp = [this.chr, this.start, this.end, this.sample, this.type, this.gene, this.notes];
         const pd = []
         console.warn("created temp:" + temp);
         for (let i = 0; i < this.headers.headings.length; i++) {
